@@ -1,0 +1,2295 @@
+,Year,Type,Distance_km,Stage
+0,1903,Flat,268.0,1
+1,1903,Flat,423.0,1
+2,1903,Flat,425.0,1
+3,1903,Flat,467.0,1
+4,1903,Flat,471.0,1
+5,1903,Stage with mountains,374.0,1
+6,1904,Flat,268.0,1
+7,1904,Flat,424.0,1
+8,1904,Flat,425.0,1
+9,1904,Flat,467.0,1
+10,1904,Flat,471.0,1
+11,1904,Stage with mountains,374.0,1
+12,1905,Flat,167.0,1
+13,1905,Flat,192.0,1
+14,1905,Flat,253.0,1
+15,1905,Flat,257.0,1
+16,1905,Flat,263.0,1
+17,1905,Flat,268.0,1
+18,1905,Flat,307.0,1
+19,1905,Flat,327.0,1
+20,1905,Flat,340.0,1
+21,1905,Stage with mountains,299.0,1
+22,1905,Stage with mountains,348.0,1
+23,1906,Flat,259.0,1
+24,1906,Flat,275.0,1
+25,1906,Flat,292.0,1
+26,1906,Flat,300.0,1
+27,1906,Flat,311.0,1
+28,1906,Flat,321.0,1
+29,1906,Flat,338.0,1
+30,1906,Flat,391.0,1
+31,1906,Flat,400.0,1
+32,1906,Flat,415.0,1
+33,1906,Flat,480.0,1
+34,1906,Stage with mountains,345.0,1
+35,1906,Stage with mountains,416.0,1
+36,1907,Flat,251.0,1
+37,1907,Flat,269.0,1
+38,1907,Flat,272.0,1
+39,1907,Flat,299.0,1
+40,1907,Flat,303.0,1
+41,1907,Flat,321.0,1
+42,1907,Flat,345.0,1
+43,1907,Flat,391.0,1
+44,1907,Flat,398.0,1
+45,1907,Flat,415.0,1
+46,1907,Stage with mountains,259.0,1
+47,1907,Stage with mountains,309.0,1
+48,1907,Stage with mountains,311.0,1
+49,1907,Stage with mountains,345.0,1
+50,1908,Flat,251.0,1
+51,1908,Flat,269.0,1
+52,1908,Flat,272.0,1
+53,1908,Flat,299.0,1
+54,1908,Flat,303.0,1
+55,1908,Flat,321.0,1
+56,1908,Flat,354.0,1
+57,1908,Flat,391.0,1
+58,1908,Flat,398.0,1
+59,1908,Flat,415.0,1
+60,1908,Stage with mountains,259.0,1
+61,1908,Stage with mountains,309.0,1
+62,1908,Stage with mountains,311.0,1
+63,1908,Stage with mountains,345.0,1
+64,1909,Flat,250.0,1
+65,1909,Flat,269.0,1
+66,1909,Flat,272.0,1
+67,1909,Flat,299.0,1
+68,1909,Flat,303.0,1
+69,1909,Flat,321.0,1
+70,1909,Flat,345.0,1
+71,1909,Flat,391.0,1
+72,1909,Flat,398.0,1
+73,1909,Flat,424.0,1
+74,1909,Stage with mountains,259.0,1
+75,1909,Stage with mountains,309.0,1
+76,1909,Stage with mountains,311.0,1
+77,1909,Stage with mountains,346.0,1
+78,1910,Flat,216.0,1
+79,1910,Flat,262.0,1
+80,1910,Flat,269.0,2
+81,1910,Flat,321.0,1
+82,1910,Flat,345.0,1
+83,1910,Flat,391.0,1
+84,1910,Flat,398.0,1
+85,1910,Flat,424.0,1
+86,1910,Stage with mountains,259.0,1
+87,1910,Stage with mountains,289.0,1
+88,1910,Stage with mountains,309.0,1
+89,1910,Stage with mountains,311.0,1
+90,1910,Stage with mountains,326.0,1
+91,1910,Stage with mountains,345.0,1
+92,1911,Flat,317.0,1
+93,1911,Flat,335.0,1
+94,1911,Flat,351.0,1
+95,1911,Flat,361.0,1
+96,1911,Flat,379.0,1
+97,1911,Flat,388.0,1
+98,1911,Flat,405.0,1
+99,1911,Flat,470.0,1
+100,1911,Stage with mountains,289.0,1
+101,1911,Stage with mountains,326.0,1
+102,1911,Stage with mountains,331.0,1
+103,1911,Stage with mountains,334.0,1
+104,1911,Stage with mountains,344.0,1
+105,1911,Stage with mountains,348.0,1
+106,1911,Stage with mountains,366.0,1
+107,1912,Flat,317.0,1
+108,1912,Flat,335.0,1
+109,1912,Flat,351.0,1
+110,1912,Flat,361.0,1
+111,1912,Flat,379.0,1
+112,1912,Flat,388.0,1
+113,1912,Flat,405.0,1
+114,1912,Flat,470.0,1
+115,1912,Stage with mountains,289.0,1
+116,1912,Stage with mountains,323.0,1
+117,1912,Stage with mountains,326.0,1
+118,1912,Stage with mountains,331.0,1
+119,1912,Stage with mountains,334.0,1
+120,1912,Stage with mountains,344.0,1
+121,1912,Stage with mountains,366.0,1
+122,1913,Flat,325.0,1
+123,1913,Flat,340.0,1
+124,1913,Flat,364.0,1
+125,1913,Flat,379.0,1
+126,1913,Flat,388.0,1
+127,1913,Flat,393.0,1
+128,1913,Flat,405.0,1
+129,1913,Flat,470.0,1
+130,1913,Stage with mountains,324.0,1
+131,1913,Stage with mountains,325.0,2
+132,1913,Stage with mountains,326.0,1
+133,1913,Stage with mountains,333.0,1
+134,1913,Stage with mountains,335.0,1
+135,1913,Stage with mountains,356.0,1
+136,1914,Flat,340.0,1
+137,1914,Flat,364.0,1
+138,1914,Flat,370.0,1
+139,1914,Flat,376.0,1
+140,1914,Flat,388.0,1
+141,1914,Flat,390.0,1
+142,1914,Flat,405.0,1
+143,1914,Flat,470.0,1
+144,1914,Stage with mountains,323.0,2
+145,1914,Stage with mountains,325.0,3
+146,1914,Stage with mountains,326.0,1
+147,1914,Stage with mountains,338.0,1
+148,1919,Flat,315.0,1
+149,1919,Flat,340.0,1
+150,1919,Flat,364.0,1
+151,1919,Flat,370.0,1
+152,1919,Flat,388.0,1
+153,1919,Flat,405.0,1
+154,1919,Flat,412.0,1
+155,1919,Flat,468.0,1
+156,1919,Flat,482.0,1
+157,1919,Stage with mountains,323.0,1
+158,1919,Stage with mountains,325.0,1
+159,1919,Stage with mountains,326.0,1
+160,1919,Stage with mountains,333.0,1
+161,1919,Stage with mountains,338.0,1
+162,1919,Stage with mountains,371.0,1
+163,1920,Flat,300.0,1
+164,1920,Flat,325.0,1
+165,1920,Flat,340.0,1
+166,1920,Flat,354.0,1
+167,1920,Flat,364.0,1
+168,1920,Flat,388.0,1
+169,1920,Flat,405.0,1
+170,1920,Flat,412.0,1
+171,1920,Flat,433.0,1
+172,1920,Flat,482.0,1
+173,1920,Stage with mountains,323.0,1
+174,1920,Stage with mountains,326.0,1
+175,1920,Stage with mountains,333.0,1
+176,1920,Stage with mountains,356.0,1
+177,1920,Stage with mountains,362.0,1
+178,1921,Flat,300.0,1
+179,1921,Flat,340.0,1
+180,1921,Flat,364.0,1
+181,1921,Flat,371.0,1
+182,1921,Flat,388.0,1
+183,1921,Flat,405.0,1
+184,1921,Flat,411.0,1
+185,1921,Flat,412.0,1
+186,1921,Flat,433.0,1
+187,1921,Flat,482.0,1
+188,1921,Stage with mountains,272.0,1
+189,1921,Stage with mountains,323.0,1
+190,1921,Stage with mountains,325.0,1
+191,1921,Stage with mountains,326.0,1
+192,1921,Stage with mountains,333.0,1
+193,1922,Flat,300.0,1
+194,1922,Flat,340.0,1
+195,1922,Flat,364.0,1
+196,1922,Flat,371.0,1
+197,1922,Flat,388.0,1
+198,1922,Flat,405.0,1
+199,1922,Flat,411.0,1
+200,1922,Flat,412.0,1
+201,1922,Flat,433.0,1
+202,1922,Flat,482.0,1
+203,1922,Stage with mountains,260.0,1
+204,1922,Stage with mountains,274.0,1
+205,1922,Stage with mountains,284.0,1
+206,1922,Stage with mountains,323.0,1
+207,1922,Stage with mountains,326.0,1
+208,1923,Flat,300.0,1
+209,1923,Flat,343.0,1
+210,1923,Flat,371.0,1
+211,1923,Flat,377.0,1
+212,1923,Flat,381.0,1
+213,1923,Flat,405.0,1
+214,1923,Flat,412.0,1
+215,1923,Flat,427.0,1
+216,1923,Flat,433.0,1
+217,1923,Flat,482.0,1
+218,1923,Stage with mountains,260.0,1
+219,1923,Stage with mountains,275.0,1
+220,1923,Stage with mountains,281.0,1
+221,1923,Stage with mountains,323.0,1
+222,1923,Stage with mountains,326.0,1
+223,1924,Flat,300.0,1
+224,1924,Flat,343.0,1
+225,1924,Flat,371.0,1
+226,1924,Flat,381.0,1
+227,1924,Flat,405.0,1
+228,1924,Flat,412.0,1
+229,1924,Flat,427.0,1
+230,1924,Flat,433.0,1
+231,1924,Flat,482.0,1
+232,1924,Stage with mountains,275.0,1
+233,1924,Stage with mountains,280.0,1
+234,1924,Stage with mountains,307.0,1
+235,1924,Stage with mountains,323.0,1
+236,1924,Stage with mountains,326.0,1
+237,1924,Stage with mountains,360.0,1
+238,1925,Flat,189.0,1
+239,1925,Flat,204.0,1
+240,1925,Flat,208.0,1
+241,1925,Flat,215.0,2
+242,1925,Flat,293.0,1
+243,1925,Flat,334.0,1
+244,1925,Flat,340.0,1
+245,1925,Flat,343.0,1
+246,1925,Flat,371.0,1
+247,1925,Flat,405.0,1
+248,1925,Flat,433.0,1
+249,1925,Stage with mountains,275.0,1
+250,1925,Stage with mountains,280.0,1
+251,1925,Stage with mountains,303.0,1
+252,1925,Stage with mountains,323.0,1
+253,1925,Stage with mountains,326.0,1
+254,1925,Stage with mountains,373.0,1
+255,1926,Flat,189.0,1
+256,1926,Flat,280.0,1
+257,1926,Flat,285.0,1
+258,1926,Flat,321.0,1
+259,1926,Flat,334.0,1
+260,1926,Flat,341.0,1
+261,1926,Flat,357.0,1
+262,1926,Flat,361.0,1
+263,1926,Flat,373.0,1
+264,1926,Flat,405.0,1
+265,1926,Flat,412.0,1
+266,1926,Flat,427.0,1
+267,1926,Flat,433.0,1
+268,1926,Stage with mountains,275.0,1
+269,1926,Stage with mountains,303.0,1
+270,1926,Stage with mountains,323.0,1
+271,1926,Stage with mountains,326.0,1
+272,1927,Flat,189.0,1
+273,1927,Flat,344.0,1
+274,1927,Flat,360.0,1
+275,1927,Stage with mountains,220.0,1
+276,1927,Stage with mountains,275.0,1
+277,1927,Stage with mountains,283.0,1
+278,1927,Stage with mountains,323.0,1
+279,1927,Stage with mountains,326.0,1
+280,1927,Team time trial,103.0,1
+281,1927,Team time trial,119.0,1
+282,1927,Team time trial,120.0,1
+283,1927,Team time trial,140.0,1
+284,1927,Team time trial,145.0,1
+285,1927,Team time trial,159.0,1
+286,1927,Team time trial,165.0,1
+287,1927,Team time trial,180.0,1
+288,1927,Team time trial,199.0,1
+289,1927,Team time trial,204.0,1
+290,1927,Team time trial,206.0,1
+291,1927,Team time trial,207.0,1
+292,1927,Team time trial,213.0,1
+293,1927,Team time trial,225.0,1
+294,1927,Team time trial,270.0,1
+295,1927,Team time trial,285.0,1
+296,1928,Flat,331.0,1
+297,1928,Flat,363.0,1
+298,1928,Stage with mountains,323.0,1
+299,1928,Stage with mountains,329.0,1
+300,1928,Stage with mountains,330.0,1
+301,1928,Stage with mountains,333.0,1
+302,1928,Stage with mountains,387.0,1
+303,1928,Team time trial,119.0,1
+304,1928,Team time trial,140.0,1
+305,1928,Team time trial,145.0,1
+306,1928,Team time trial,159.0,1
+307,1928,Team time trial,165.0,1
+308,1928,Team time trial,199.0,1
+309,1928,Team time trial,204.0,1
+310,1928,Team time trial,206.0,1
+311,1928,Team time trial,207.0,1
+312,1928,Team time trial,208.0,1
+313,1928,Team time trial,213.0,1
+314,1928,Team time trial,225.0,1
+315,1928,Team time trial,234.0,1
+316,1928,Team time trial,271.0,1
+317,1928,Team time trial,285.0,1
+318,1929,Flat,140.0,1
+319,1929,Flat,145.0,1
+320,1929,Flat,165.0,1
+321,1929,Flat,182.0,1
+322,1929,Flat,199.0,1
+323,1929,Flat,206.0,3
+324,1929,Flat,208.0,1
+325,1929,Flat,234.0,1
+326,1929,Flat,285.0,1
+327,1929,Flat,332.0,1
+328,1929,Flat,366.0,1
+329,1929,Stage with mountains,133.0,1
+330,1929,Stage with mountains,283.0,1
+331,1929,Stage with mountains,323.0,1
+332,1929,Stage with mountains,329.0,1
+333,1929,Stage with mountains,333.0,1
+334,1929,Stage with mountains,363.0,1
+335,1929,Team time trial,159.0,1
+336,1929,Team time trial,191.0,1
+337,1929,Team time trial,270.0,1
+338,1930,Flat,146.0,1
+339,1930,Flat,159.0,1
+340,1930,Flat,164.0,1
+341,1930,Flat,181.0,1
+342,1930,Flat,202.0,1
+343,1930,Flat,203.0,1
+344,1930,Flat,206.0,2
+345,1930,Flat,209.0,1
+346,1930,Flat,210.0,1
+347,1930,Flat,222.0,1
+348,1930,Flat,223.0,1
+349,1930,Flat,271.0,1
+350,1930,Flat,285.0,1
+351,1930,Flat,300.0,1
+352,1930,Stage with mountains,132.0,1
+353,1930,Stage with mountains,231.0,1
+354,1930,Stage with mountains,282.0,1
+355,1930,Stage with mountains,322.0,1
+356,1930,Stage with mountains,331.0,1
+357,1930,Stage with mountains,333.0,1
+358,1931,Flat,106.0,1
+359,1931,Flat,159.0,1
+360,1931,Flat,164.0,1
+361,1931,Flat,180.0,1
+362,1931,Flat,181.0,1
+363,1931,Flat,192.0,1
+364,1931,Flat,202.0,1
+365,1931,Flat,206.0,1
+366,1931,Flat,207.0,1
+367,1931,Flat,208.0,1
+368,1931,Flat,211.0,1
+369,1931,Flat,212.0,1
+370,1931,Flat,271.0,1
+371,1931,Flat,313.0,1
+372,1931,Flat,338.0,1
+373,1931,Stage with mountains,102.0,1
+374,1931,Stage with mountains,132.0,1
+375,1931,Stage with mountains,204.0,1
+376,1931,Stage with mountains,209.0,1
+377,1931,Stage with mountains,230.0,1
+378,1931,Stage with mountains,231.0,1
+379,1931,Stage with mountains,233.0,1
+380,1931,Stage with mountains,282.0,1
+381,1931,Stage with mountains,322.0,1
+382,1932,Flat,145.0,1
+383,1932,Flat,159.0,2
+384,1932,Flat,165.0,1
+385,1932,Flat,168.0,1
+386,1932,Flat,191.0,1
+387,1932,Flat,206.0,2
+388,1932,Flat,208.0,1
+389,1932,Flat,212.0,1
+390,1932,Flat,271.0,1
+391,1932,Flat,300.0,1
+392,1932,Flat,387.0,1
+393,1932,Stage with mountains,102.0,1
+394,1932,Stage with mountains,132.0,1
+395,1932,Stage with mountains,204.0,1
+396,1932,Stage with mountains,229.0,1
+397,1932,Stage with mountains,230.0,1
+398,1932,Stage with mountains,233.0,1
+399,1932,Stage with mountains,291.0,1
+400,1932,Stage with mountains,322.0,1
+401,1933,Flat,156.0,1
+402,1933,Flat,166.0,2
+403,1933,Flat,168.0,1
+404,1933,Flat,169.0,1
+405,1933,Flat,183.0,1
+406,1933,Flat,192.0,1
+407,1933,Flat,208.0,1
+408,1933,Flat,222.0,1
+409,1933,Flat,233.0,1
+410,1933,Flat,262.0,1
+411,1933,Flat,266.0,1
+412,1933,Stage with mountains,91.0,1
+413,1933,Stage with mountains,102.0,1
+414,1933,Stage with mountains,128.0,1
+415,1933,Stage with mountains,158.0,1
+416,1933,Stage with mountains,165.0,1
+417,1933,Stage with mountains,185.0,1
+418,1933,Stage with mountains,207.0,1
+419,1933,Stage with mountains,220.0,1
+420,1933,Stage with mountains,227.0,1
+421,1933,Stage with mountains,229.0,1
+422,1933,Stage with mountains,293.0,1
+423,1934,Individual time trial,90.0,1
+424,1934,Flat,81.0,1
+425,1934,Flat,156.0,1
+426,1934,Flat,158.0,1
+427,1934,Flat,161.0,1
+428,1934,Flat,172.0,1
+429,1934,Flat,177.0,1
+430,1934,Flat,183.0,1
+431,1934,Flat,192.0,1
+432,1934,Flat,195.0,1
+433,1934,Flat,215.0,1
+434,1934,Flat,221.0,1
+435,1934,Flat,262.0,1
+436,1934,Flat,275.0,1
+437,1934,Flat,293.0,1
+438,1934,Stage with mountains,91.0,1
+439,1934,Stage with mountains,102.0,1
+440,1934,Stage with mountains,126.0,1
+441,1934,Stage with mountains,165.0,1
+442,1934,Stage with mountains,172.0,1
+443,1934,Stage with mountains,207.0,1
+444,1934,Stage with mountains,220.0,1
+445,1934,Stage with mountains,227.0,1
+446,1934,Stage with mountains,229.0,1
+447,1935,Individual time trial,33.0,1
+448,1935,Individual time trial,55.0,1
+449,1935,Individual time trial,56.0,1
+450,1935,Individual time trial,58.0,1
+451,1935,Individual time trial,63.0,1
+452,1935,Individual time trial,95.0,1
+453,1935,Flat,81.0,1
+454,1935,Flat,103.0,1
+455,1935,Flat,112.0,1
+456,1935,Flat,156.0,1
+457,1935,Flat,158.0,1
+458,1935,Flat,161.0,1
+459,1935,Flat,192.0,1
+460,1935,Flat,195.0,1
+461,1935,Flat,220.0,1
+462,1935,Flat,221.0,1
+463,1935,Flat,224.0,1
+464,1935,Flat,262.0,2
+465,1935,Stage with mountains,102.0,1
+466,1935,Stage with mountains,126.0,1
+467,1935,Stage with mountains,194.0,1
+468,1935,Stage with mountains,207.0,1
+469,1935,Stage with mountains,220.0,1
+470,1935,Stage with mountains,227.0,1
+471,1935,Stage with mountains,229.0,1
+472,1935,Stage with mountains,325.0,1
+473,1936,Individual time trial,52.0,1
+474,1936,Individual time trial,55.0,1
+475,1936,Individual time trial,63.0,1
+476,1936,Individual time trial,65.0,1
+477,1936,Individual time trial,75.0,1
+478,1936,Flat,67.0,1
+479,1936,Flat,81.0,1
+480,1936,Flat,103.0,1
+481,1936,Flat,112.0,1
+482,1936,Flat,117.0,1
+483,1936,Flat,156.0,1
+484,1936,Flat,161.0,1
+485,1936,Flat,192.0,1
+486,1936,Flat,195.0,1
+487,1936,Flat,204.0,1
+488,1936,Flat,229.0,1
+489,1936,Flat,234.0,1
+490,1936,Flat,258.0,1
+491,1936,Flat,298.0,1
+492,1936,Stage with mountains,126.0,1
+493,1936,Stage with mountains,194.0,2
+494,1936,Stage with mountains,212.0,1
+495,1936,Stage with mountains,220.0,2
+496,1936,Stage with mountains,230.0,1
+497,1936,Stage with mountains,325.0,1
+498,1937,Individual time trial,59.0,1
+499,1937,Flat,37.0,1
+500,1937,Flat,51.0,1
+501,1937,Flat,63.0,1
+502,1937,Flat,67.0,1
+503,1937,Flat,93.0,1
+504,1937,Flat,99.0,1
+505,1937,Flat,103.0,1
+506,1937,Flat,112.0,1
+507,1937,Flat,114.0,1
+508,1937,Flat,123.0,1
+509,1937,Flat,161.0,1
+510,1937,Flat,169.0,1
+511,1937,Flat,172.0,1
+512,1937,Flat,175.0,1
+513,1937,Flat,192.0,1
+514,1937,Flat,234.0,1
+515,1937,Flat,235.0,1
+516,1937,Flat,263.0,1
+517,1937,Stage with mountains,59.0,1
+518,1937,Stage with mountains,167.0,1
+519,1937,Stage with mountains,180.0,1
+520,1937,Stage with mountains,194.0,2
+521,1937,Stage with mountains,220.0,2
+522,1937,Stage with mountains,228.0,1
+523,1937,Stage with mountains,251.0,1
+524,1937,Team time trial,34.0,1
+525,1937,Team time trial,65.0,1
+526,1937,Team time trial,82.0,1
+527,1938,Individual time trial,27.0,1
+528,1938,Individual time trial,42.0,1
+529,1938,Flat,48.0,1
+530,1938,Flat,53.0,1
+531,1938,Flat,62.0,1
+532,1938,Flat,63.0,1
+533,1938,Flat,73.0,1
+534,1938,Flat,83.0,2
+535,1938,Flat,89.0,1
+536,1938,Flat,107.0,1
+537,1938,Flat,115.0,1
+538,1938,Flat,143.0,1
+539,1938,Flat,171.0,1
+540,1938,Flat,186.0,1
+541,1938,Flat,196.0,1
+542,1938,Flat,198.0,1
+543,1938,Flat,199.0,1
+544,1938,Flat,215.0,1
+545,1938,Flat,223.0,1
+546,1938,Flat,237.0,1
+547,1938,Flat,238.0,1
+548,1938,Flat,279.0,1
+549,1938,Stage with mountains,193.0,1
+550,1938,Stage with mountains,219.0,1
+551,1938,Stage with mountains,260.0,1
+552,1938,Stage with mountains,284.0,2
+553,1938,Stage with mountains,311.0,1
+554,1939,Individual time trial,27.0,1
+555,1939,Individual time trial,59.0,1
+556,1939,Individual time trial,64.0,1
+557,1939,Individual time trial,69.0,1
+558,1939,Mountain time trial,64.0,1
+559,1939,Flat,70.0,1
+560,1939,Flat,104.0,1
+561,1939,Flat,107.0,1
+562,1939,Flat,119.0,1
+563,1939,Flat,122.0,1
+564,1939,Flat,144.0,1
+565,1939,Flat,149.0,1
+566,1939,Flat,151.0,1
+567,1939,Flat,157.0,1
+568,1939,Flat,174.0,1
+569,1939,Flat,175.0,1
+570,1939,Flat,198.0,1
+571,1939,Flat,201.0,1
+572,1939,Flat,207.0,1
+573,1939,Flat,210.0,1
+574,1939,Flat,212.0,1
+575,1939,Flat,215.0,1
+576,1939,Flat,244.0,1
+577,1939,Stage with mountains,101.0,1
+578,1939,Stage with mountains,126.0,1
+579,1939,Stage with mountains,219.0,1
+580,1939,Stage with mountains,226.0,1
+581,1939,Stage with mountains,311.0,1
+582,1947,Individual time trial,139.0,1
+583,1947,Flat,165.0,1
+584,1947,Flat,172.0,1
+585,1947,Flat,182.0,1
+586,1947,Flat,195.0,1
+587,1947,Flat,223.0,1
+588,1947,Flat,230.0,1
+589,1947,Flat,235.0,1
+590,1947,Flat,236.0,2
+591,1947,Flat,248.0,1
+592,1947,Flat,249.0,1
+593,1947,Flat,257.0,1
+594,1947,Flat,272.0,1
+595,1947,Flat,314.0,1
+596,1947,Stage with mountains,172.0,1
+597,1947,Stage with mountains,185.0,1
+598,1947,Stage with mountains,195.0,1
+599,1947,Stage with mountains,217.0,1
+600,1947,Stage with mountains,253.0,1
+601,1947,Stage with mountains,255.0,1
+602,1948,Individual time trial,120.0,1
+603,1948,Flat,166.0,1
+604,1948,Flat,195.0,1
+605,1948,Flat,228.0,1
+606,1948,Flat,237.0,1
+607,1948,Flat,244.0,1
+608,1948,Flat,245.0,1
+609,1948,Flat,246.0,1
+610,1948,Flat,248.0,1
+611,1948,Flat,249.0,1
+612,1948,Flat,251.0,1
+613,1948,Flat,259.0,1
+614,1948,Flat,262.0,1
+615,1948,Flat,286.0,1
+616,1948,Stage with mountains,170.0,1
+617,1948,Stage with mountains,219.0,1
+618,1948,Stage with mountains,243.0,1
+619,1948,Stage with mountains,256.0,1
+620,1948,Stage with mountains,261.0,1
+621,1948,Stage with mountains,263.0,1
+622,1948,Stage with mountains,274.0,1
+623,1949,Individual time trial,92.0,1
+624,1949,Mountain time trial,137.0,1
+625,1949,Flat,134.0,1
+626,1949,Flat,182.0,1
+627,1949,Flat,185.0,1
+628,1949,Flat,192.0,1
+629,1949,Flat,199.0,1
+630,1949,Flat,211.0,1
+631,1949,Flat,215.0,1
+632,1949,Flat,228.0,1
+633,1949,Flat,262.0,1
+634,1949,Flat,273.0,1
+635,1949,Flat,289.0,1
+636,1949,Flat,293.0,1
+637,1949,Flat,305.0,1
+638,1949,Flat,340.0,1
+639,1949,Stage with mountains,193.0,1
+640,1949,Stage with mountains,257.0,1
+641,1949,Stage with mountains,265.0,1
+642,1949,Stage with mountains,275.0,1
+643,1949,Stage with mountains,283.0,1
+644,1950,Individual time trial,78.0,1
+645,1950,Mountain time trial,98.0,1
+646,1950,Flat,181.0,1
+647,1950,Flat,202.0,1
+648,1950,Flat,206.0,1
+649,1950,Flat,215.0,1
+650,1950,Flat,222.0,1
+651,1950,Flat,231.0,1
+652,1950,Flat,232.5,1
+653,1950,Flat,233.0,2
+654,1950,Flat,241.0,1
+655,1950,Flat,248.0,1
+656,1950,Flat,307.0,1
+657,1950,Flat,314.0,1
+658,1950,Flat,316.0,1
+659,1950,Stage with mountains,96.0,1
+660,1950,Stage with mountains,165.0,1
+661,1950,Stage with mountains,205.5,1
+662,1950,Stage with mountains,229.0,1
+663,1950,Stage with mountains,230.0,1
+664,1950,Stage with mountains,291.0,1
+665,1951,Individual time trial,85.0,1
+666,1951,Individual time trial,97.0,1
+667,1951,Flat,173.0,1
+668,1951,Flat,177.0,1
+669,1951,Flat,182.0,1
+670,1951,Flat,185.0,2
+671,1951,Flat,188.0,1
+672,1951,Flat,192.0,1
+673,1951,Flat,215.0,1
+674,1951,Flat,219.0,1
+675,1951,Flat,228.0,1
+676,1951,Flat,241.0,1
+677,1951,Flat,322.0,1
+678,1951,Stage with mountains,142.0,1
+679,1951,Stage with mountains,165.0,1
+680,1951,Stage with mountains,197.0,1
+681,1951,Stage with mountains,201.0,2
+682,1951,Stage with mountains,208.0,1
+683,1951,Stage with mountains,213.0,1
+684,1951,Stage with mountains,216.0,1
+685,1951,Stage with mountains,224.0,1
+686,1951,Stage with mountains,236.0,1
+687,1952,Individual time trial,60.0,1
+688,1952,Individual time trial,63.0,1
+689,1952,Flat,181.0,1
+690,1952,Flat,189.0,1
+691,1952,Flat,195.0,1
+692,1952,Flat,197.0,1
+693,1952,Flat,200.0,1
+694,1952,Flat,214.0,1
+695,1952,Flat,228.0,2
+696,1952,Flat,232.0,1
+697,1952,Flat,246.0,1
+698,1952,Flat,275.0,1
+699,1952,Flat,354.0,1
+700,1952,Stage with mountains,149.0,1
+701,1952,Stage with mountains,178.0,1
+702,1952,Stage with mountains,182.0,1
+703,1952,Stage with mountains,204.0,1
+704,1952,Stage with mountains,238.0,1
+705,1952,Stage with mountains,245.0,1
+706,1952,Stage with mountains,251.0,1
+707,1952,Stage with mountains,252.0,1
+708,1952,Stage with mountains,266.0,1
+709,1953,Individual time trial,70.0,1
+710,1953,Flat,173.0,1
+711,1953,Flat,181.0,1
+712,1953,Flat,188.0,1
+713,1953,Flat,195.0,1
+714,1953,Flat,197.0,1
+715,1953,Flat,200.0,1
+716,1953,Flat,206.0,1
+717,1953,Flat,210.0,1
+718,1953,Flat,221.0,1
+719,1953,Flat,227.0,1
+720,1953,Flat,228.0,1
+721,1953,Flat,328.0,1
+722,1953,Flat,345.0,1
+723,1953,Stage with mountains,103.0,1
+724,1953,Stage with mountains,115.0,1
+725,1953,Stage with mountains,165.0,1
+726,1953,Stage with mountains,189.0,1
+727,1953,Stage with mountains,214.0,1
+728,1953,Stage with mountains,227.0,1
+729,1953,Stage with mountains,236.0,1
+730,1953,Stage with mountains,261.0,1
+731,1954,Individual time trial,72.0,1
+732,1954,Flat,131.0,1
+733,1954,Flat,134.0,1
+734,1954,Flat,179.0,1
+735,1954,Flat,180.0,1
+736,1954,Flat,190.0,1
+737,1954,Flat,202.0,1
+738,1954,Flat,203.0,1
+739,1954,Flat,211.0,1
+740,1954,Flat,216.0,2
+741,1954,Flat,219.0,1
+742,1954,Flat,224.0,1
+743,1954,Flat,255.0,1
+744,1954,Flat,343.0,1
+745,1954,Stage with mountains,161.0,1
+746,1954,Stage with mountains,182.0,1
+747,1954,Stage with mountains,194.0,1
+748,1954,Stage with mountains,197.0,1
+749,1954,Stage with mountains,216.0,1
+750,1954,Stage with mountains,221.0,1
+751,1954,Stage with mountains,225.0,1
+752,1954,Stage with mountains,241.0,1
+753,1954,Stage with mountains,243.0,1
+754,1954,Team time trial,10.4,1
+755,1955,Individual time trial,68.6,1
+756,1955,Flat,102.0,1
+757,1955,Flat,123.0,1
+758,1955,Flat,151.0,1
+759,1955,Flat,195.0,2
+760,1955,Flat,204.0,1
+761,1955,Flat,205.0,1
+762,1955,Flat,210.0,1
+763,1955,Flat,225.0,1
+764,1955,Flat,229.0,2
+765,1955,Flat,240.0,1
+766,1955,Flat,243.0,1
+767,1955,Flat,267.0,1
+768,1955,Stage with mountains,156.0,1
+769,1955,Stage with mountains,198.0,1
+770,1955,Stage with mountains,205.0,1
+771,1955,Stage with mountains,240.0,1
+772,1955,Stage with mountains,250.0,1
+773,1955,Stage with mountains,253.0,1
+774,1955,Stage with mountains,275.0,1
+775,1955,Team time trial,12.5,1
+776,1956,Individual time trial,15.1,1
+777,1956,Individual time trial,73.0,1
+778,1956,Flat,125.0,1
+779,1956,Flat,180.0,1
+780,1956,Flat,189.0,1
+781,1956,Flat,192.0,1
+782,1956,Flat,201.0,1
+783,1956,Flat,204.0,1
+784,1956,Flat,217.0,1
+785,1956,Flat,219.0,1
+786,1956,Flat,223.0,1
+787,1956,Flat,225.0,1
+788,1956,Flat,231.0,1
+789,1956,Flat,244.0,1
+790,1956,Flat,331.0,1
+791,1956,Stage with mountains,130.0,1
+792,1956,Stage with mountains,173.0,1
+793,1956,Stage with mountains,176.0,1
+794,1956,Stage with mountains,203.0,1
+795,1956,Stage with mountains,234.0,1
+796,1956,Stage with mountains,237.0,1
+797,1956,Stage with mountains,250.0,1
+798,1956,Stage with mountains,255.0,1
+799,1957,Individual time trial,9.8,1
+800,1957,Individual time trial,66.0,1
+801,1957,Flat,134.0,1
+802,1957,Flat,160.0,1
+803,1957,Flat,170.0,1
+804,1957,Flat,188.0,1
+805,1957,Flat,192.0,1
+806,1957,Flat,194.0,1
+807,1957,Flat,197.0,1
+808,1957,Flat,204.0,1
+809,1957,Flat,226.0,1
+810,1957,Flat,227.0,1
+811,1957,Flat,232.0,1
+812,1957,Flat,246.0,1
+813,1957,Flat,248.0,1
+814,1957,Flat,317.0,1
+815,1957,Stage with mountains,207.0,1
+816,1957,Stage with mountains,220.0,1
+817,1957,Stage with mountains,223.0,1
+818,1957,Stage with mountains,236.0,1
+819,1957,Stage with mountains,239.0,1
+820,1957,Stage with mountains,247.0,1
+821,1957,Stage with mountains,286.0,1
+822,1957,Team time trial,15.0,1
+823,1958,Individual time trial,46.0,1
+824,1958,Individual time trial,74.0,1
+825,1958,Mountain time trial,21.0,1
+826,1958,Flat,137.0,1
+827,1958,Flat,161.0,1
+828,1958,Flat,170.0,1
+829,1958,Flat,177.0,1
+830,1958,Flat,184.0,1
+831,1958,Flat,187.0,1
+832,1958,Flat,189.0,1
+833,1958,Flat,198.0,1
+834,1958,Flat,205.0,1
+835,1958,Flat,206.0,1
+836,1958,Flat,223.0,1
+837,1958,Flat,232.0,1
+838,1958,Flat,255.0,1
+839,1958,Flat,320.0,1
+840,1958,Stage with mountains,129.0,1
+841,1958,Stage with mountains,165.0,1
+842,1958,Stage with mountains,176.0,1
+843,1958,Stage with mountains,178.0,1
+844,1958,Stage with mountains,219.0,1
+845,1958,Stage with mountains,230.0,1
+846,1958,Stage with mountains,237.0,1
+847,1959,Individual time trial,45.0,1
+848,1959,Individual time trial,69.0,1
+849,1959,Mountain time trial,12.0,1
+850,1959,Flat,184.0,1
+851,1959,Flat,190.0,1
+852,1959,Flat,201.0,1
+853,1959,Flat,202.0,1
+854,1959,Flat,207.0,1
+855,1959,Flat,210.0,1
+856,1959,Flat,217.0,1
+857,1959,Flat,230.0,1
+858,1959,Flat,234.0,1
+859,1959,Flat,238.0,1
+860,1959,Flat,286.0,1
+861,1959,Flat,331.0,1
+862,1959,Stage with mountains,119.0,1
+863,1959,Stage with mountains,197.0,1
+864,1959,Stage with mountains,219.0,1
+865,1959,Stage with mountains,231.0,1
+866,1959,Stage with mountains,235.0,1
+867,1959,Stage with mountains,243.0,1
+868,1959,Stage with mountains,251.0,1
+869,1960,Individual time trial,27.8,1
+870,1960,Individual time trial,83.0,1
+871,1960,Flat,108.0,1
+872,1960,Flat,189.0,1
+873,1960,Flat,191.0,1
+874,1960,Flat,200.0,1
+875,1960,Flat,206.0,1
+876,1960,Flat,209.0,1
+877,1960,Flat,211.0,1
+878,1960,Flat,224.0,1
+879,1960,Flat,225.0,1
+880,1960,Flat,229.0,1
+881,1960,Flat,240.0,1
+882,1960,Flat,244.0,1
+883,1960,Stage with mountains,161.0,1
+884,1960,Stage with mountains,172.0,1
+885,1960,Stage with mountains,176.0,1
+886,1960,Stage with mountains,187.0,1
+887,1960,Stage with mountains,215.0,1
+888,1960,Stage with mountains,217.0,1
+889,1960,Stage with mountains,228.0,1
+890,1960,Stage with mountains,229.0,1
+891,1961,Individual time trial,28.5,1
+892,1961,Individual time trial,74.5,1
+893,1961,Flat,136.5,1
+894,1961,Flat,174.0,1
+895,1961,Flat,177.5,1
+896,1961,Flat,197.5,1
+897,1961,Flat,206.0,1
+898,1961,Flat,207.0,1
+899,1961,Flat,214.5,1
+900,1961,Flat,230.5,1
+901,1961,Flat,237.5,1
+902,1961,Flat,252.5,1
+903,1961,Flat,309.5,1
+904,1961,Stage with mountains,180.5,1
+905,1961,Stage with mountains,197.0,1
+906,1961,Stage with mountains,199.0,1
+907,1961,Stage with mountains,208.0,1
+908,1961,Stage with mountains,221.0,1
+909,1961,Stage with mountains,225.0,1
+910,1961,Stage with mountains,230.0,1
+911,1961,Stage with mountains,240.5,1
+912,1961,Stage with mountains,250.5,1
+913,1962,Individual time trial,43.0,1
+914,1962,Individual time trial,68.0,1
+915,1962,Mountain time trial,18.5,1
+916,1962,Flat,147.0,1
+917,1962,Flat,155.0,1
+918,1962,Flat,155.5,1
+919,1962,Flat,184.5,1
+920,1962,Flat,185.0,1
+921,1962,Flat,196.5,2
+922,1962,Flat,201.0,2
+923,1962,Flat,210.0,1
+924,1962,Flat,214.0,1
+925,1962,Flat,215.0,1
+926,1962,Flat,232.0,1
+927,1962,Flat,235.5,1
+928,1962,Flat,253.0,1
+929,1962,Flat,271.0,1
+930,1962,Stage with mountains,204.5,1
+931,1962,Stage with mountains,207.5,1
+932,1962,Stage with mountains,215.0,1
+933,1962,Stage with mountains,241.5,1
+934,1962,Team time trial,23.0,1
+935,1963,Individual time trial,25.0,1
+936,1963,Individual time trial,54.0,1
+937,1963,Flat,118.0,1
+938,1963,Flat,152.0,1
+939,1963,Flat,185.0,1
+940,1963,Flat,186.0,1
+941,1963,Flat,202.0,1
+942,1963,Flat,223.0,1
+943,1963,Flat,232.0,1
+944,1963,Flat,234.0,2
+945,1963,Flat,236.0,2
+946,1963,Flat,237.0,1
+947,1963,Flat,285.0,1
+948,1963,Stage with mountains,131.0,1
+949,1963,Stage with mountains,148.0,1
+950,1963,Stage with mountains,173.0,1
+951,1963,Stage with mountains,174.0,1
+952,1963,Stage with mountains,202.0,1
+953,1963,Stage with mountains,225.0,1
+954,1963,Stage with mountains,228.0,1
+955,1963,Team time trial,22.0,1
+956,1964,Individual time trial,21.0,1
+957,1964,Individual time trial,27.0,1
+958,1964,Individual time trial,43.0,1
+959,1964,Flat,119.0,1
+960,1964,Flat,161.0,1
+961,1964,Flat,174.0,1
+962,1964,Flat,187.0,2
+963,1964,Flat,195.0,1
+964,1964,Flat,197.0,1
+965,1964,Flat,200.0,1
+966,1964,Flat,208.0,1
+967,1964,Flat,215.0,2
+968,1964,Flat,250.0,1
+969,1964,Flat,292.0,1
+970,1964,Flat,311.0,1
+971,1964,Stage with mountains,170.0,1
+972,1964,Stage with mountains,186.0,1
+973,1964,Stage with mountains,197.0,1
+974,1964,Stage with mountains,203.0,1
+975,1964,Stage with mountains,217.0,1
+976,1964,Stage with mountains,239.0,1
+977,1964,Stage with mountains,249.0,1
+978,1964,Team time trial,21.0,1
+979,1965,Individual time trial,26.7,1
+980,1965,Individual time trial,37.8,1
+981,1965,Mountain time trial,26.9,1
+982,1965,Flat,147.0,1
+983,1965,Flat,149.0,1
+984,1965,Flat,164.0,1
+985,1965,Flat,197.5,1
+986,1965,Flat,198.5,1
+987,1965,Flat,200.5,1
+988,1965,Flat,210.5,1
+989,1965,Flat,219.0,2
+990,1965,Flat,225.5,1
+991,1965,Flat,227.0,1
+992,1965,Flat,240.0,1
+993,1965,Stage with mountains,165.0,1
+994,1965,Stage with mountains,167.5,1
+995,1965,Stage with mountains,173.0,1
+996,1965,Stage with mountains,177.0,1
+997,1965,Stage with mountains,193.5,1
+998,1965,Stage with mountains,222.5,1
+999,1965,Stage with mountains,226.5,1
+1000,1965,Stage with mountains,240.5,1
+1001,1965,Team time trial,22.5,1
+1002,1966,Individual time trial,20.0,1
+1003,1966,Individual time trial,51.0,1
+1004,1966,Flat,111.0,1
+1005,1966,Flat,131.0,1
+1006,1966,Flat,138.0,1
+1007,1966,Flat,144.0,1
+1008,1966,Flat,178.0,1
+1009,1966,Flat,191.0,1
+1010,1966,Flat,198.0,1
+1011,1966,Flat,201.0,1
+1012,1966,Flat,205.0,1
+1013,1966,Flat,209.0,1
+1014,1966,Flat,217.0,1
+1015,1966,Flat,223.0,1
+1016,1966,Flat,232.0,1
+1017,1966,Flat,252.0,1
+1018,1966,Stage with mountains,148.0,1
+1019,1966,Stage with mountains,160.0,1
+1020,1966,Stage with mountains,188.0,2
+1021,1966,Stage with mountains,203.0,1
+1022,1966,Stage with mountains,219.0,1
+1023,1966,Stage with mountains,234.0,1
+1024,1966,Stage with mountains,265.0,1
+1025,1966,Team time trial,21.0,1
+1026,1967,Individual time trial,5.775,1
+1027,1967,Individual time trial,46.6,1
+1028,1967,Flat,104.0,1
+1029,1967,Flat,172.0,1
+1030,1967,Flat,180.0,1
+1031,1967,Flat,185.5,1
+1032,1967,Flat,191.0,1
+1033,1967,Flat,201.5,1
+1034,1967,Flat,206.5,1
+1035,1967,Flat,207.5,1
+1036,1967,Flat,217.0,1
+1037,1967,Flat,230.5,1
+1038,1967,Flat,238.0,1
+1039,1967,Flat,248.0,1
+1040,1967,Flat,359.0,1
+1041,1967,Stage with mountains,188.0,1
+1042,1967,Stage with mountains,197.0,1
+1043,1967,Stage with mountains,205.5,1
+1044,1967,Stage with mountains,211.5,1
+1045,1967,Stage with mountains,215.0,1
+1046,1967,Stage with mountains,222.0,1
+1047,1967,Stage with mountains,238.5,1
+1048,1967,Stage with mountains,243.0,1
+1049,1967,Stage with mountains,250.0,1
+1050,1967,Team time trial,17.0,1
+1051,1968,Individual time trial,6.1,1
+1052,1968,Individual time trial,55.2,1
+1053,1968,Flat,112.0,1
+1054,1968,Flat,136.0,1
+1055,1968,Flat,137.5,1
+1056,1968,Flat,154.5,1
+1057,1968,Flat,165.0,1
+1058,1968,Flat,183.5,1
+1059,1968,Flat,188.0,1
+1060,1968,Flat,189.0,1
+1061,1968,Flat,190.0,1
+1062,1968,Flat,199.0,1
+1063,1968,Flat,202.5,1
+1064,1968,Flat,210.5,1
+1065,1968,Flat,223.0,1
+1066,1968,Flat,238.0,1
+1067,1968,Flat,242.0,1
+1068,1968,Flat,250.5,1
+1069,1968,Stage with mountains,200.0,1
+1070,1968,Stage with mountains,208.5,1
+1071,1968,Stage with mountains,226.5,1
+1072,1968,Stage with mountains,231.5,1
+1073,1968,Stage with mountains,235.0,1
+1074,1968,Stage with mountains,236.5,1
+1075,1968,Stage with mountains,242.5,1
+1076,1968,Team time trial,22.0,1
+1077,1969,Individual time trial,9.0,1
+1078,1969,Individual time trial,10.0,1
+1079,1969,Individual time trial,19.0,1
+1080,1969,Individual time trial,37.0,1
+1081,1969,Flat,111.0,1
+1082,1969,Flat,147.0,1
+1083,1969,Flat,182.0,1
+1084,1969,Flat,193.0,1
+1085,1969,Flat,196.0,1
+1086,1969,Flat,201.0,1
+1087,1969,Flat,213.0,1
+1088,1969,Flat,214.0,1
+1089,1969,Flat,234.0,1
+1090,1969,Flat,329.0,1
+1091,1969,Stage with mountains,111.0,1
+1092,1969,Stage with mountains,133.0,1
+1093,1969,Stage with mountains,137.0,1
+1094,1969,Stage with mountains,161.0,1
+1095,1969,Stage with mountains,194.0,1
+1096,1969,Stage with mountains,198.0,2
+1097,1969,Stage with mountains,199.0,1
+1098,1969,Stage with mountains,214.0,1
+1099,1969,Stage with mountains,221.0,1
+1100,1969,Stage with mountains,241.0,1
+1101,1969,Team time trial,16.0,1
+1102,1970,Individual time trial,7.2,1
+1103,1970,Individual time trial,7.4,1
+1104,1970,Individual time trial,8.2,1
+1105,1970,Individual time trial,8.8,1
+1106,1970,Individual time trial,54.0,1
+1107,1970,Flat,94.5,1
+1108,1970,Flat,120.0,1
+1109,1970,Flat,135.5,1
+1110,1970,Flat,140.0,1
+1111,1970,Flat,140.5,1
+1112,1970,Flat,160.0,1
+1113,1970,Flat,190.0,1
+1114,1970,Flat,191.5,1
+1115,1970,Flat,200.0,1
+1116,1970,Flat,223.0,1
+1117,1970,Flat,223.5,1
+1118,1970,Flat,224.5,1
+1119,1970,Flat,229.0,1
+1120,1970,Flat,232.5,1
+1121,1970,Flat,238.5,1
+1122,1970,Stage with mountains,135.5,1
+1123,1970,Stage with mountains,139.5,1
+1124,1970,Stage with mountains,170.0,1
+1125,1970,Stage with mountains,185.5,1
+1126,1970,Stage with mountains,194.0,1
+1127,1970,Stage with mountains,194.5,1
+1128,1970,Stage with mountains,241.0,1
+1129,1970,Stage with mountains,269.5,1
+1130,1970,Team time trial,10.7,1
+1131,1971,Flat,57.5,1
+1132,1971,Flat,59.5,1
+1133,1971,Flat,74.5,1
+1134,1971,Flat,127.5,1
+1135,1971,Flat,133.5,1
+1136,1971,Flat,185.0,1
+1137,1971,Flat,188.0,1
+1138,1971,Flat,208.5,1
+1139,1971,Flat,242.0,1
+1140,1971,Flat,244.0,1
+1141,1971,Flat,251.0,1
+1142,1971,Flat,257.5,1
+1143,1971,High mountain stage,19.6,1
+1144,1971,High mountain stage,134.0,1
+1145,1971,High mountain stage,145.0,1
+1146,1971,High mountain stage,188.5,1
+1147,1971,High mountain stage,214.5,1
+1148,1971,High mountain stage,221.0,1
+1149,1971,Individual time trial,16.3,1
+1150,1971,Individual time trial,53.8,1
+1151,1971,Medium mountain stage,90.0,1
+1152,1971,Medium mountain stage,144.0,1
+1153,1971,Medium mountain stage,153.0,1
+1154,1971,Medium mountain stage,165.5,1
+1155,1971,Team time trial,11.0,1
+1156,1972,Hilly stage,179.0,1
+1157,1972,Hilly stage,198.5,1
+1158,1972,Hilly stage,213.0,1
+1159,1972,Individual time trial,7.2,1
+1160,1972,Individual time trial,12.7,1
+1161,1972,Individual time trial,42.0,1
+1162,1972,Flat,89.0,1
+1163,1972,Flat,133.5,1
+1164,1972,Flat,161.0,1
+1165,1972,Flat,205.0,1
+1166,1972,Flat,206.5,1
+1167,1972,Flat,210.0,1
+1168,1972,Flat,230.0,1
+1169,1972,Flat,235.5,1
+1170,1972,Flat,236.0,1
+1171,1972,Flat,257.5,1
+1172,1972,Stage with mountains,28.0,1
+1173,1972,Stage with mountains,51.0,1
+1174,1972,Stage with mountains,151.0,1
+1175,1972,Stage with mountains,163.5,1
+1176,1972,Stage with mountains,192.0,1
+1177,1972,Stage with mountains,201.0,1
+1178,1972,Stage with mountains,207.0,1
+1179,1972,Stage with mountains,220.5,1
+1180,1972,Team time trial,16.2,1
+1181,1973,Individual time trial,7.1,1
+1182,1973,Individual time trial,12.4,1
+1183,1973,Individual time trial,16.0,1
+1184,1973,Individual time trial,28.3,1
+1185,1973,Flat,84.0,1
+1186,1973,Flat,89.0,1
+1187,1973,Flat,137.0,1
+1188,1973,Flat,137.5,1
+1189,1973,Flat,138.0,1
+1190,1973,Flat,210.0,1
+1191,1973,Flat,214.0,1
+1192,1973,Flat,226.0,1
+1193,1973,Flat,233.5,1
+1194,1973,Flat,238.0,1
+1195,1973,Flat,248.0,1
+1196,1973,Stage with mountains,76.0,1
+1197,1973,Stage with mountains,86.5,1
+1198,1973,Stage with mountains,150.5,1
+1199,1973,Stage with mountains,188.0,1
+1200,1973,Stage with mountains,216.5,1
+1201,1973,Stage with mountains,222.5,1
+1202,1973,Stage with mountains,227.5,1
+1203,1973,Stage with mountains,234.5,1
+1204,1973,Stage with mountains,235.0,1
+1205,1973,Stage with mountains,237.5,1
+1206,1973,Stage with mountains,244.5,1
+1207,1973,Team time trial,12.4,1
+1208,1974,Individual time trial,7.0,1
+1209,1974,Individual time trial,12.0,1
+1210,1974,Individual time trial,37.0,1
+1211,1974,Flat,113.0,1
+1212,1974,Flat,120.0,1
+1213,1974,Flat,126.0,1
+1214,1974,Flat,136.0,1
+1215,1974,Flat,144.0,1
+1216,1974,Flat,146.0,1
+1217,1974,Flat,152.0,1
+1218,1974,Flat,164.0,1
+1219,1974,Flat,165.0,1
+1220,1974,Flat,184.0,1
+1221,1974,Flat,190.0,1
+1222,1974,Flat,196.0,1
+1223,1974,Flat,221.0,1
+1224,1974,Flat,239.0,1
+1225,1974,Flat,249.0,1
+1226,1974,Stage with mountains,119.0,1
+1227,1974,Stage with mountains,131.0,1
+1228,1974,Stage with mountains,141.0,1
+1229,1974,Stage with mountains,199.0,1
+1230,1974,Stage with mountains,209.0,1
+1231,1974,Stage with mountains,225.0,1
+1232,1974,Stage with mountains,231.0,1
+1233,1974,Stage with mountains,241.0,1
+1234,1974,Team time trial,9.0,1
+1235,1975,Individual time trial,6.0,1
+1236,1975,Individual time trial,16.0,1
+1237,1975,Individual time trial,37.0,1
+1238,1975,Individual time trial,40.0,1
+1239,1975,Flat,94.0,1
+1240,1975,Flat,109.0,1
+1241,1975,Flat,121.0,1
+1242,1975,Flat,131.0,1
+1243,1975,Flat,134.0,1
+1244,1975,Flat,164.0,1
+1245,1975,Flat,170.0,1
+1246,1975,Flat,220.0,1
+1247,1975,Flat,222.0,1
+1248,1975,Flat,223.0,1
+1249,1975,Flat,236.0,1
+1250,1975,Flat,242.0,1
+1251,1975,Flat,256.0,1
+1252,1975,Stage with mountains,107.0,1
+1253,1975,Stage with mountains,160.0,1
+1254,1975,Stage with mountains,174.0,1
+1255,1975,Stage with mountains,206.0,1
+1256,1975,Stage with mountains,217.0,1
+1257,1975,Stage with mountains,225.0,1
+1258,1975,Stage with mountains,229.0,1
+1259,1975,Stage with mountains,260.0,1
+1260,1976,Flat,145.0,1
+1261,1976,Flat,152.0,1
+1262,1976,Flat,173.0,1
+1263,1976,Flat,209.0,1
+1264,1976,Flat,220.0,1
+1265,1976,Flat,237.0,1
+1266,1976,Flat,258.0,1
+1267,1976,Half Stage,70.0,1
+1268,1976,Half Stage,86.0,1
+1269,1976,Half Stage,91.0,1
+1270,1976,Half Stage,123.0,1
+1271,1976,Half Stage,144.0,1
+1272,1976,Hilly stage,206.0,1
+1273,1976,Hilly stage,220.0,1
+1274,1976,Individual time trial,6.0,1
+1275,1976,Individual time trial,8.0,1
+1276,1976,Individual time trial,37.0,1
+1277,1976,Individual time trial,39.0,1
+1278,1976,Mountain stage,139.0,1
+1279,1976,Mountain stage,166.0,1
+1280,1976,Mountain stage,188.0,1
+1281,1976,Mountain stage,195.0,1
+1282,1976,Mountain stage,205.0,1
+1283,1976,Mountain stage,220.0,1
+1284,1976,Mountain stage,224.0,1
+1285,1976,Mountain stage,258.0,1
+1286,1976,Team time trial,4.0,1
+1287,1977,Individual time trial,5.0,1
+1288,1977,Individual time trial,6.0,1
+1289,1977,Individual time trial,14.0,1
+1290,1977,Individual time trial,30.0,1
+1291,1977,Individual time trial,50.0,1
+1292,1977,Flat,46.0,1
+1293,1977,Flat,91.0,1
+1294,1977,Flat,139.0,1
+1295,1977,Flat,140.0,1
+1296,1977,Flat,142.0,1
+1297,1977,Flat,160.0,1
+1298,1977,Flat,172.0,1
+1299,1977,Flat,174.0,1
+1300,1977,Flat,225.0,1
+1301,1977,Flat,237.0,1
+1302,1977,Flat,242.0,1
+1303,1977,Flat,247.0,1
+1304,1977,Stage with mountains,105.0,1
+1305,1977,Stage with mountains,121.0,1
+1306,1977,Stage with mountains,185.0,1
+1307,1977,Stage with mountains,187.0,1
+1308,1977,Stage with mountains,193.0,1
+1309,1977,Stage with mountains,199.0,1
+1310,1977,Stage with mountains,230.0,1
+1311,1977,Stage with mountains,248.0,1
+1312,1977,Stage with mountains,253.0,1
+1313,1977,Stage with mountains,256.0,1
+1314,1977,Team time trial,4.0,1
+1315,1978,Hilly stage,192.0,1
+1316,1978,Hilly stage,196.0,1
+1317,1978,Hilly stage,221.0,1
+1318,1978,Individual time trial,5.0,1
+1319,1978,Individual time trial,52.0,1
+1320,1978,Individual time trial,59.0,1
+1321,1978,Individual time trial,72.0,1
+1322,1978,Flat,96.0,1
+1323,1978,Flat,100.0,1
+1324,1978,Flat,135.0,1
+1325,1978,Flat,137.0,1
+1326,1978,Flat,158.0,1
+1327,1978,Flat,162.0,2
+1328,1978,Flat,182.0,1
+1329,1978,Flat,199.0,1
+1330,1978,Flat,207.0,1
+1331,1978,Flat,233.0,1
+1332,1978,Flat,242.0,1
+1333,1978,Flat,244.0,2
+1334,1978,Stage with mountains,161.0,1
+1335,1978,Stage with mountains,225.0,1
+1336,1978,Stage with mountains,241.0,1
+1337,1978,Team time trial,153.0,1
+1338,1979,Hilly stage,202.0,1
+1339,1979,Individual time trial,5.0,1
+1340,1979,Individual time trial,24.0,1
+1341,1979,Individual time trial,33.0,1
+1342,1979,Individual time trial,49.0,1
+1343,1979,Individual time trial,54.0,1
+1344,1979,Flat,124.0,1
+1345,1979,Flat,145.0,1
+1346,1979,Flat,158.0,1
+1347,1979,Flat,162.0,1
+1348,1979,Flat,180.0,1
+1349,1979,Flat,189.0,1
+1350,1979,Flat,193.0,1
+1351,1979,Flat,201.0,1
+1352,1979,Flat,205.0,1
+1353,1979,Flat,239.0,1
+1354,1979,Flat,240.0,1
+1355,1979,Flat,248.0,1
+1356,1979,Stage with mountains,119.0,1
+1357,1979,Stage with mountains,167.0,1
+1358,1979,Stage with mountains,180.0,1
+1359,1979,Stage with mountains,201.0,1
+1360,1979,Stage with mountains,225.0,1
+1361,1979,Team time trial,87.0,1
+1362,1979,Team time trial,90.0,1
+1363,1980,Hilly stage,140.0,1
+1364,1980,Individual time trial,8.0,1
+1365,1980,Individual time trial,34.0,1
+1366,1980,Individual time trial,35.0,1
+1367,1980,Individual time trial,52.0,1
+1368,1980,Flat,92.0,1
+1369,1980,Flat,133.0,1
+1370,1980,Flat,160.0,1
+1371,1980,Flat,163.0,1
+1372,1980,Flat,164.0,1
+1373,1980,Flat,186.0,1
+1374,1980,Flat,189.0,1
+1375,1980,Flat,194.0,1
+1376,1980,Flat,205.0,1
+1377,1980,Flat,208.0,1
+1378,1980,Flat,216.0,1
+1379,1980,Flat,249.0,1
+1380,1980,Flat,276.0,1
+1381,1980,Flat,282.0,1
+1382,1980,Stage with mountains,199.0,1
+1383,1980,Stage with mountains,200.0,1
+1384,1980,Stage with mountains,209.0,1
+1385,1980,Stage with mountains,242.0,1
+1386,1980,Team time trial,46.0,1
+1387,1980,Team time trial,65.0,1
+1388,1981,Hilly stage,97.0,1
+1389,1981,Hilly stage,231.0,1
+1390,1981,Individual time trial,6.0,1
+1391,1981,Individual time trial,27.0,1
+1392,1981,Individual time trial,38.0,1
+1393,1981,Individual time trial,46.0,1
+1394,1981,Flat,107.0,1
+1395,1981,Flat,118.0,1
+1396,1981,Flat,138.0,1
+1397,1981,Flat,157.0,1
+1398,1981,Flat,182.0,1
+1399,1981,Flat,187.0,1
+1400,1981,Flat,197.0,1
+1401,1981,Flat,207.0,1
+1402,1981,Flat,227.0,1
+1403,1981,Flat,232.0,1
+1404,1981,Flat,246.0,1
+1405,1981,Flat,254.0,1
+1406,1981,Flat,264.0,1
+1407,1981,Stage with mountains,117.0,1
+1408,1981,Stage with mountains,134.0,1
+1409,1981,Stage with mountains,200.0,1
+1410,1981,Stage with mountains,230.0,1
+1411,1981,Team time trial,40.0,1
+1412,1981,Team time trial,77.0,1
+1413,1982,Hilly stage,207.0,1
+1414,1982,Individual time trial,7.0,1
+1415,1982,Individual time trial,33.0,1
+1416,1982,Individual time trial,48.0,1
+1417,1982,Individual time trial,57.0,1
+1418,1982,Flat,134.0,1
+1419,1982,Flat,138.0,1
+1420,1982,Flat,147.0,1
+1421,1982,Flat,161.0,1
+1422,1982,Flat,187.0,1
+1423,1982,Flat,201.0,1
+1424,1982,Flat,219.0,1
+1425,1982,Flat,233.0,2
+1426,1982,Flat,235.0,1
+1427,1982,Flat,250.0,1
+1428,1982,Stage with mountains,122.0,1
+1429,1982,Stage with mountains,123.0,1
+1430,1982,Stage with mountains,208.0,1
+1431,1982,Stage with mountains,249.0,1
+1432,1982,Stage with mountains,251.0,1
+1433,1982,Team time trial,69.0,1
+1434,1982,Team time trial,73.0,1
+1435,1983,Hilly stage,144.0,1
+1436,1983,Hilly stage,149.0,1
+1437,1983,Hilly stage,152.0,1
+1438,1983,Hilly stage,210.0,1
+1439,1983,Individual time trial,6.0,1
+1440,1983,Individual time trial,15.0,1
+1441,1983,Individual time trial,16.0,1
+1442,1983,Individual time trial,50.0,1
+1443,1983,Individual time trial,58.0,1
+1444,1983,Flat,163.0,1
+1445,1983,Flat,177.0,1
+1446,1983,Flat,195.0,1
+1447,1983,Flat,207.0,1
+1448,1983,Flat,216.0,1
+1449,1983,Flat,222.0,1
+1450,1983,Flat,257.0,1
+1451,1983,Flat,261.0,1
+1452,1983,Flat,291.0,1
+1453,1983,Flat,300.0,1
+1454,1983,Stage with mountains,201.0,1
+1455,1983,Stage with mountains,223.0,1
+1456,1983,Stage with mountains,247.0,1
+1457,1983,Team time trial,100.0,1
+1458,1984,Hilly stage,197.0,1
+1459,1984,Hilly stage,228.0,1
+1460,1984,Hilly stage,241.0,1
+1461,1984,Hilly stage,320.0,1
+1462,1984,Individual time trial,5.0,1
+1463,1984,Individual time trial,22.0,1
+1464,1984,Individual time trial,51.0,1
+1465,1984,Individual time trial,67.0,1
+1466,1984,Flat,83.0,1
+1467,1984,Flat,111.0,1
+1468,1984,Flat,149.0,1
+1469,1984,Flat,192.0,1
+1470,1984,Flat,198.0,1
+1471,1984,Flat,202.0,1
+1472,1984,Flat,207.0,1
+1473,1984,Flat,220.0,1
+1474,1984,Flat,249.0,1
+1475,1984,Flat,338.0,1
+1476,1984,Stage with mountains,141.0,1
+1477,1984,Stage with mountains,151.0,1
+1478,1984,Stage with mountains,185.0,1
+1479,1984,Stage with mountains,186.0,1
+1480,1984,Stage with mountains,227.0,1
+1481,1984,Team time trial,51.0,1
+1482,1985,Hilly stage,174.0,1
+1483,1985,Hilly stage,179.0,1
+1484,1985,Hilly stage,204.0,1
+1485,1985,Individual time trial,6.0,1
+1486,1985,Individual time trial,32.0,1
+1487,1985,Individual time trial,46.0,1
+1488,1985,Individual time trial,75.0,1
+1489,1985,Flat,196.0,1
+1490,1985,Flat,203.0,1
+1491,1985,Flat,217.0,1
+1492,1985,Flat,222.0,1
+1493,1985,Flat,225.0,1
+1494,1985,Flat,238.0,1
+1495,1985,Flat,239.0,1
+1496,1985,Flat,242.0,1
+1497,1985,Flat,247.0,1
+1498,1985,Flat,256.0,1
+1499,1985,Stage with cobblestones,224.0,1
+1500,1985,Stage with mountains,53.0,1
+1501,1985,Stage with mountains,83.0,1
+1502,1985,Stage with mountains,195.0,1
+1503,1985,Stage with mountains,209.0,1
+1504,1985,Stage with mountains,269.0,1
+1505,1985,Team time trial,73.0,1
+1506,1986,Individual time trial,4.6,1
+1507,1986,Individual time trial,58.0,1
+1508,1986,Individual time trial,61.5,1
+1509,1986,Flat,85.0,1
+1510,1986,Flat,124.5,1
+1511,1986,Flat,154.0,1
+1512,1986,Flat,179.5,1
+1513,1986,Flat,183.0,1
+1514,1986,Flat,190.0,1
+1515,1986,Flat,194.0,1
+1516,1986,Flat,200.0,1
+1517,1986,Flat,201.0,1
+1518,1986,Flat,204.0,1
+1519,1986,Flat,214.0,1
+1520,1986,Flat,225.5,1
+1521,1986,Flat,243.0,1
+1522,1986,Flat,246.5,1
+1523,1986,Flat,255.0,1
+1524,1986,Flat,258.3,1
+1525,1986,Stage with mountains,162.5,1
+1526,1986,Stage with mountains,186.0,1
+1527,1986,Stage with mountains,190.0,1
+1528,1986,Stage with mountains,217.5,1
+1529,1986,Team time trial,56.0,1
+1530,1987,Hilly stage,206.0,1
+1531,1987,Hilly stage,216.0,1
+1532,1987,Hilly stage,239.0,1
+1533,1987,Individual time trial,6.0,1
+1534,1987,Individual time trial,38.0,1
+1535,1987,Individual time trial,87.0,1
+1536,1987,Mountain time trial,37.0,1
+1537,1987,Flat,79.0,1
+1538,1987,Flat,105.0,1
+1539,1987,Flat,112.0,1
+1540,1987,Flat,164.0,1
+1541,1987,Flat,169.0,1
+1542,1987,Flat,192.0,1
+1543,1987,Flat,206.0,1
+1544,1987,Flat,211.0,1
+1545,1987,Flat,219.0,1
+1546,1987,Flat,225.0,1
+1547,1987,Flat,228.0,1
+1548,1987,Flat,260.0,1
+1549,1987,Stage with mountains,166.0,1
+1550,1987,Stage with mountains,185.0,2
+1551,1987,Stage with mountains,186.0,1
+1552,1987,Stage with mountains,201.0,1
+1553,1987,Stage with mountains,219.0,1
+1554,1987,Team time trial,41.0,1
+1555,1988,Hilly stage,149.0,1
+1556,1988,Hilly stage,161.0,1
+1557,1988,Hilly stage,188.0,1
+1558,1988,Individual time trial,1.0,1
+1559,1988,Individual time trial,46.0,1
+1560,1988,Individual time trial,52.0,1
+1561,1988,Mountain time trial,38.0,1
+1562,1988,Flat,35.0,1
+1563,1988,Flat,92.0,1
+1564,1988,Flat,94.0,1
+1565,1988,Flat,148.0,1
+1566,1988,Flat,158.0,1
+1567,1988,Flat,173.0,1
+1568,1988,Flat,198.0,1
+1569,1988,Flat,213.0,1
+1570,1988,Flat,219.0,1
+1571,1988,Flat,223.0,1
+1572,1988,Flat,225.0,1
+1573,1988,Stage with mountains,163.0,1
+1574,1988,Stage with mountains,187.0,1
+1575,1988,Stage with mountains,227.0,1
+1576,1988,Stage with mountains,232.0,1
+1577,1988,Team time trial,48.0,1
+1578,1989,Individual time trial,7.8,1
+1579,1989,Individual time trial,24.5,1
+1580,1989,Individual time trial,73.0,1
+1581,1989,Mountain time trial,39.0,1
+1582,1989,Flat,130.0,1
+1583,1989,Flat,135.5,1
+1584,1989,Flat,157.0,1
+1585,1989,Flat,179.0,1
+1586,1989,Flat,241.0,1
+1587,1989,Flat,242.0,1
+1588,1989,Flat,255.0,1
+1589,1989,Flat,258.5,1
+1590,1989,Flat,259.0,1
+1591,1989,Stage with mountains,91.5,1
+1592,1989,Stage with mountains,125.0,1
+1593,1989,Stage with mountains,136.0,1
+1594,1989,Stage with mountains,147.0,1
+1595,1989,Stage with mountains,158.5,1
+1596,1989,Stage with mountains,165.0,1
+1597,1989,Stage with mountains,175.0,1
+1598,1989,Stage with mountains,238.0,1
+1599,1989,Team time trial,46.0,1
+1600,1990,Hilly stage,149.0,1
+1601,1990,Hilly stage,196.0,1
+1602,1990,Hilly stage,205.0,1
+1603,1990,Individual time trial,6.3,1
+1604,1990,Individual time trial,45.5,1
+1605,1990,Individual time trial,61.5,1
+1606,1990,Mountain time trial,33.5,1
+1607,1990,Flat,138.5,1
+1608,1990,Flat,170.0,1
+1609,1990,Flat,181.5,1
+1610,1990,Flat,182.5,2
+1611,1990,Flat,202.0,1
+1612,1990,Flat,202.5,1
+1613,1990,Flat,203.0,1
+1614,1990,Flat,233.0,1
+1615,1990,Flat,301.0,1
+1616,1990,Stage with mountains,118.5,1
+1617,1990,Stage with mountains,150.0,1
+1618,1990,Stage with mountains,182.5,1
+1619,1990,Stage with mountains,215.0,1
+1620,1990,Team time trial,44.5,1
+1621,1991,Hilly stage,160.0,1
+1622,1991,Hilly stage,177.0,1
+1623,1991,Hilly stage,235.0,1
+1624,1991,Individual time trial,5.4,1
+1625,1991,Individual time trial,57.0,1
+1626,1991,Individual time trial,73.0,1
+1627,1991,Flat,114.5,1
+1628,1991,Flat,149.5,1
+1629,1991,Flat,161.0,1
+1630,1991,Flat,167.0,1
+1631,1991,Flat,172.5,1
+1632,1991,Flat,178.0,1
+1633,1991,Flat,207.5,1
+1634,1991,Flat,210.5,1
+1635,1991,Flat,215.0,1
+1636,1991,Flat,246.0,1
+1637,1991,Flat,259.0,1
+1638,1991,Flat,286.0,1
+1639,1991,Stage with mountains,125.0,1
+1640,1991,Stage with mountains,192.0,1
+1641,1991,Stage with mountains,232.0,1
+1642,1991,Stage with mountains,255.0,1
+1643,1991,Team time trial,36.5,1
+1644,1992,Hilly stage,194.5,1
+1645,1992,Hilly stage,198.0,1
+1646,1992,Hilly stage,212.0,1
+1647,1992,Hilly stage,249.5,1
+1648,1992,Hilly stage,255.0,1
+1649,1992,Hilly stage,267.5,1
+1650,1992,Individual time trial,8.0,1
+1651,1992,Individual time trial,64.0,1
+1652,1992,Individual time trial,65.0,1
+1653,1992,Flat,141.0,1
+1654,1992,Flat,167.0,1
+1655,1992,Flat,189.0,1
+1656,1992,Flat,196.0,1
+1657,1992,Flat,196.5,1
+1658,1992,Flat,206.5,1
+1659,1992,Flat,210.0,1
+1660,1992,Flat,212.0,1
+1661,1992,Flat,217.0,1
+1662,1992,Flat,222.0,1
+1663,1992,Stage with mountains,186.5,1
+1664,1992,Stage with mountains,254.5,1
+1665,1992,Team time trial,63.5,1
+1666,1993,Individual time trial,6.8,1
+1667,1993,Individual time trial,48.0,1
+1668,1993,Individual time trial,59.0,1
+1669,1993,Flat,158.0,1
+1670,1993,Flat,181.5,1
+1671,1993,Flat,184.5,1
+1672,1993,Flat,189.5,1
+1673,1993,Flat,196.5,1
+1674,1993,Flat,199.0,1
+1675,1993,Flat,199.5,1
+1676,1993,Flat,215.0,1
+1677,1993,Flat,223.0,1
+1678,1993,Flat,225.5,1
+1679,1993,Flat,227.5,1
+1680,1993,Flat,286.5,1
+1681,1993,Stage with mountains,179.0,1
+1682,1993,Stage with mountains,190.0,1
+1683,1993,Stage with mountains,203.0,1
+1684,1993,Stage with mountains,230.0,1
+1685,1993,Stage with mountains,231.5,1
+1686,1993,Team time trial,81.0,1
+1687,1994,Hilly stage,208.5,1
+1688,1994,Individual time trial,7.2,1
+1689,1994,Individual time trial,64.0,1
+1690,1994,Mountain time trial,47.5,1
+1691,1994,Flat,160.5,1
+1692,1994,Flat,175.0,1
+1693,1994,Flat,187.0,1
+1694,1994,Flat,202.0,1
+1695,1994,Flat,203.5,1
+1696,1994,Flat,204.5,1
+1697,1994,Flat,218.5,1
+1698,1994,Flat,223.0,1
+1699,1994,Flat,234.0,1
+1700,1994,Flat,259.5,1
+1701,1994,Flat,270.5,1
+1702,1994,Stage with mountains,149.0,1
+1703,1994,Stage with mountains,174.5,1
+1704,1994,Stage with mountains,204.5,1
+1705,1994,Stage with mountains,224.5,1
+1706,1994,Stage with mountains,231.0,1
+1707,1994,Stage with mountains,263.5,1
+1708,1994,Team time trial,66.5,1
+1709,1995,Hilly stage,199.0,1
+1710,1995,Hilly stage,203.0,1
+1711,1995,Hilly stage,222.5,1
+1712,1995,Individual time trial,7.3,1
+1713,1995,Individual time trial,46.5,1
+1714,1995,Individual time trial,54.0,1
+1715,1995,Flat,155.0,1
+1716,1995,Flat,162.0,1
+1717,1995,Flat,166.5,1
+1718,1995,Flat,202.0,1
+1719,1995,Flat,233.5,1
+1720,1995,Flat,235.5,1
+1721,1995,Flat,245.0,1
+1722,1995,Flat,246.0,1
+1723,1995,Flat,261.0,1
+1724,1995,Stage with mountains,149.0,1
+1725,1995,Stage with mountains,160.0,1
+1726,1995,Stage with mountains,162.5,1
+1727,1995,Stage with mountains,164.0,1
+1728,1995,Stage with mountains,206.0,1
+1729,1995,Team time trial,67.0,1
+1730,1996,Hilly stage,143.5,1
+1731,1996,Hilly stage,154.5,1
+1732,1996,Hilly stage,177.0,1
+1733,1996,Hilly stage,186.5,1
+1734,1996,Hilly stage,202.0,1
+1735,1996,Hilly stage,207.0,1
+1736,1996,Hilly stage,208.5,1
+1737,1996,Individual time trial,9.4,1
+1738,1996,Individual time trial,30.5,1
+1739,1996,Individual time trial,63.5,1
+1740,1996,Flat,147.5,1
+1741,1996,Flat,176.0,1
+1742,1996,Flat,195.0,1
+1743,1996,Flat,209.0,1
+1744,1996,Flat,226.5,1
+1745,1996,Flat,232.0,1
+1746,1996,Flat,242.0,1
+1747,1996,Flat,247.5,1
+1748,1996,Stage with mountains,46.0,1
+1749,1996,Stage with mountains,199.0,1
+1750,1996,Stage with mountains,200.0,1
+1751,1996,Stage with mountains,262.0,1
+1752,1997,Flat,149.5,1
+1753,1997,Flat,161.5,1
+1754,1997,Flat,172.0,1
+1755,1997,Flat,192.0,1
+1756,1997,Flat,194.0,1
+1757,1997,Flat,217.5,1
+1758,1997,Flat,218.5,1
+1759,1997,Flat,223.0,1
+1760,1997,Flat,224.0,1
+1761,1997,Flat,261.5,1
+1762,1997,Flat,262.0,1
+1763,1997,Hilly stage,175.5,1
+1764,1997,Hilly stage,181.0,1
+1765,1997,Hilly stage,192.0,1
+1766,1997,Individual time trial,7.3,1
+1767,1997,Individual time trial,55.0,1
+1768,1997,Individual time trial,63.0,1
+1769,1997,Mountain stage,148.0,1
+1770,1997,Mountain stage,182.0,1
+1771,1997,Mountain stage,203.5,1
+1772,1997,Mountain stage,208.5,1
+1773,1997,Mountain stage,252.5,1
+1774,1998,Flat,147.5,1
+1775,1998,Flat,169.0,1
+1776,1998,Flat,180.5,1
+1777,1998,Flat,190.0,1
+1778,1998,Flat,190.5,1
+1779,1998,Flat,196.0,1
+1780,1998,Flat,204.5,1
+1781,1998,Flat,205.5,1
+1782,1998,Flat,210.0,1
+1783,1998,Flat,228.5,1
+1784,1998,Flat,242.0,1
+1785,1998,Flat,252.0,1
+1786,1998,High mountain stage,149.0,1
+1787,1998,High mountain stage,170.0,1
+1788,1998,High mountain stage,189.0,1
+1789,1998,High mountain stage,196.5,1
+1790,1998,High mountain stage,204.0,1
+1791,1998,Individual time trial,5.6,1
+1792,1998,Individual time trial,52.0,1
+1793,1998,Individual time trial,58.0,1
+1794,1998,Mountain stage,186.5,1
+1795,1998,Mountain stage,218.5,1
+1796,1999,Hilly stage,198.5,1
+1797,1999,Hilly stage,201.5,1
+1798,1999,Hilly stage,236.5,1
+1799,1999,Individual time trial,6.8,1
+1800,1999,Individual time trial,56.5,1
+1801,1999,Individual time trial,57.0,1
+1802,1999,Flat,143.5,1
+1803,1999,Flat,171.5,1
+1804,1999,Flat,176.0,1
+1805,1999,Flat,187.5,1
+1806,1999,Flat,194.5,2
+1807,1999,Flat,199.0,1
+1808,1999,Flat,200.0,1
+1809,1999,Flat,208.0,1
+1810,1999,Flat,227.0,1
+1811,1999,Flat,233.5,1
+1812,1999,Stage with mountains,173.0,1
+1813,1999,Stage with mountains,192.0,1
+1814,1999,Stage with mountains,213.5,1
+1815,1999,Stage with mountains,220.5,1
+1816,2000,Hilly stage,155.0,1
+1817,2000,Hilly stage,218.5,1
+1818,2000,Individual time trial,16.5,1
+1819,2000,Individual time trial,58.5,1
+1820,2000,Flat,138.0,1
+1821,2000,Flat,161.5,1
+1822,2000,Flat,181.0,1
+1823,2000,Flat,185.5,1
+1824,2000,Flat,194.0,1
+1825,2000,Flat,198.5,1
+1826,2000,Flat,202.0,1
+1827,2000,Flat,203.5,1
+1828,2000,Flat,205.5,1
+1829,2000,Flat,246.5,1
+1830,2000,Flat,254.5,1
+1831,2000,Stage with mountains,149.0,1
+1832,2000,Stage with mountains,173.5,1
+1833,2000,Stage with mountains,196.5,1
+1834,2000,Stage with mountains,205.0,1
+1835,2000,Stage with mountains,249.5,1
+1836,2000,Team time trial,70.0,1
+1837,2001,Flat,149.5,1
+1838,2001,Flat,160.5,1
+1839,2001,Flat,185.0,1
+1840,2001,Flat,194.0,1
+1841,2001,Flat,194.5,1
+1842,2001,Flat,198.5,1
+1843,2001,Flat,211.5,1
+1844,2001,Flat,215.0,1
+1845,2001,Flat,220.5,1
+1846,2001,Flat,222.5,1
+1847,2001,Flat,229.5,1
+1848,2001,Flat,232.5,1
+1849,2001,High mountain stage,141.5,1
+1850,2001,High mountain stage,166.5,1
+1851,2001,High mountain stage,194.0,1
+1852,2001,High mountain stage,209.0,1
+1853,2001,Individual time trial,8.2,1
+1854,2001,Individual time trial,32.0,1
+1855,2001,Individual time trial,61.0,1
+1856,2001,Medium mountain stage,162.5,1
+1857,2001,Team time trial,67.0,1
+1858,2002,Hilly stage,176.5,1
+1859,2002,Hilly stage,226.5,1
+1860,2002,Individual time trial,7.0,1
+1861,2002,Individual time trial,50.0,1
+1862,2002,Individual time trial,52.0,1
+1863,2002,Flat,144.0,1
+1864,2002,Flat,147.0,1
+1865,2002,Flat,171.0,1
+1866,2002,Flat,174.5,1
+1867,2002,Flat,176.0,1
+1868,2002,Flat,181.0,1
+1869,2002,Flat,192.5,1
+1870,2002,Flat,195.0,1
+1871,2002,Flat,199.5,1
+1872,2002,Flat,217.5,1
+1873,2002,Stage with mountains,142.0,1
+1874,2002,Stage with mountains,158.0,1
+1875,2002,Stage with mountains,179.5,1
+1876,2002,Stage with mountains,199.5,1
+1877,2002,Stage with mountains,221.0,1
+1878,2002,Team time trial,67.5,1
+1879,2003,Flat,152.0,1
+1880,2003,Flat,153.5,1
+1881,2003,Flat,167.5,1
+1882,2003,Flat,168.0,1
+1883,2003,Flat,181.0,1
+1884,2003,Flat,196.5,1
+1885,2003,Flat,203.5,1
+1886,2003,Flat,204.5,1
+1887,2003,Flat,219.5,1
+1888,2003,Flat,230.0,1
+1889,2003,Hilly stage,197.5,1
+1890,2003,Individual time trial,6.5,1
+1891,2003,Individual time trial,47.0,1
+1892,2003,Individual time trial,49.0,1
+1893,2003,Mountain stage,159.5,1
+1894,2003,Mountain stage,184.5,1
+1895,2003,Mountain stage,191.5,1
+1896,2003,Mountain stage,197.5,1
+1897,2003,Mountain stage,219.0,1
+1898,2003,Mountain stage,230.5,1
+1899,2003,Team time trial,69.0,1
+1900,2004,Hilly stage,164.0,1
+1901,2004,Hilly stage,166.5,1
+1902,2004,Hilly stage,237.0,1
+1903,2004,Individual time trial,6.1,1
+1904,2004,Individual time trial,15.5,1
+1905,2004,Individual time trial,55.0,1
+1906,2004,Mountain stage,180.5,1
+1907,2004,Mountain stage,197.5,1
+1908,2004,Mountain stage,204.5,1
+1909,2004,Mountain stage,205.5,1
+1910,2004,Flat,160.5,1
+1911,2004,Flat,163.0,1
+1912,2004,Flat,168.0,1
+1913,2004,Flat,192.5,1
+1914,2004,Flat,196.0,1
+1915,2004,Flat,197.0,1
+1916,2004,Flat,200.5,1
+1917,2004,Flat,202.5,1
+1918,2004,Flat,204.5,1
+1919,2004,Flat,210.0,1
+1920,2004,Team time trial,64.5,1
+1921,2005,Hilly stage,153.5,1
+1922,2005,Hilly stage,171.0,1
+1923,2005,Hilly stage,187.0,1
+1924,2005,Hilly stage,189.0,1
+1925,2005,Hilly stage,231.5,1
+1926,2005,Individual time trial,19.0,1
+1927,2005,Individual time trial,55.5,1
+1928,2005,Mountain stage,173.0,1
+1929,2005,Mountain stage,177.0,1
+1930,2005,Mountain stage,180.5,1
+1931,2005,Mountain stage,205.5,1
+1932,2005,Mountain stage,220.5,1
+1933,2005,Flat,144.5,1
+1934,2005,Flat,173.5,1
+1935,2005,Flat,181.5,1
+1936,2005,Flat,183.0,1
+1937,2005,Flat,199.0,1
+1938,2005,Flat,212.5,1
+1939,2005,Flat,228.5,1
+1940,2005,Flat,239.5,1
+1941,2005,Team time trial,67.5,1
+1942,2006,Flat,154.5,1
+1943,2006,Flat,169.5,1
+1944,2006,Flat,181.0,1
+1945,2006,Flat,184.5,1
+1946,2006,Flat,189.0,1
+1947,2006,Flat,197.0,1
+1948,2006,Flat,207.0,1
+1949,2006,Flat,225.0,1
+1950,2006,Flat,228.5,1
+1951,2006,Flat,230.0,1
+1952,2006,Hilly stage,180.5,1
+1953,2006,Hilly stage,211.5,1
+1954,2006,Hilly stage,216.5,1
+1955,2006,Individual time trial,7.1,1
+1956,2006,Individual time trial,52.0,1
+1957,2006,Individual time trial,57.0,1
+1958,2006,Mountain stage,182.0,1
+1959,2006,Mountain stage,187.0,1
+1960,2006,Mountain stage,190.5,1
+1961,2006,Mountain stage,200.5,1
+1962,2006,Mountain stage,206.5,1
+1963,2007,Individual time trial,7.9,1
+1964,2007,Individual time trial,54.0,1
+1965,2007,Individual time trial,55.5,1
+1966,2007,Intermediate stage,178.5,1
+1967,2007,Intermediate stage,182.5,1
+1968,2007,Intermediate stage,188.5,1
+1969,2007,Mountain stage,159.5,1
+1970,2007,Mountain stage,165.0,1
+1971,2007,Mountain stage,196.0,1
+1972,2007,Mountain stage,197.0,1
+1973,2007,Mountain stage,197.5,1
+1974,2007,Mountain stage,218.5,1
+1975,2007,Flat,146.0,1
+1976,2007,Flat,168.5,1
+1977,2007,Flat,182.5,1
+1978,2007,Flat,193.0,1
+1979,2007,Flat,199.5,1
+1980,2007,Flat,203.0,1
+1981,2007,Flat,211.0,1
+1982,2007,Flat,229.5,1
+1983,2007,Flat,236.5,1
+1984,2008,Flat,143.0,1
+1985,2008,Flat,164.5,1
+1986,2008,Flat,165.5,1
+1987,2008,Flat,168.5,1
+1988,2008,Flat,172.5,1
+1989,2008,Flat,182.0,1
+1990,2008,Flat,194.5,1
+1991,2008,Flat,197.5,1
+1992,2008,Flat,208.0,1
+1993,2008,Flat,232.0,1
+1994,2008,Individual time trial,29.5,1
+1995,2008,Individual time trial,53.0,1
+1996,2008,Mountain stage,156.0,1
+1997,2008,Mountain stage,157.0,1
+1998,2008,Mountain stage,183.0,1
+1999,2008,Mountain stage,210.5,1
+2000,2008,Mountain stage,224.0,1
+2001,2008,Transition stage,159.0,1
+2002,2008,Transition stage,167.5,1
+2003,2008,Transition stage,195.5,1
+2004,2008,Transition stage,196.5,1
+2005,2009,Flat,164.0,1
+2006,2009,Flat,178.0,1
+2007,2009,Flat,181.5,1
+2008,2009,Flat,187.0,1
+2009,2009,Flat,192.0,1
+2010,2009,Flat,194.5,1
+2011,2009,Flat,196.5,2
+2012,2009,Flat,199.0,1
+2013,2009,Flat,211.5,1
+2014,2009,Individual time trial,15.5,1
+2015,2009,Individual time trial,40.5,1
+2016,2009,Medium mountain stage,200.0,1
+2017,2009,Mountain stage,159.0,1
+2018,2009,Mountain stage,169.5,1
+2019,2009,Mountain stage,207.5,1
+2020,2009,Mountain stage,160.5,1
+2021,2009,Mountain stage,167.0,1
+2022,2009,Mountain stage,176.5,1
+2023,2009,Mountain stage,224.0,1
+2024,2009,Team time trial,39.0,1
+2025,2010,Stage with cobblestones,213.0,1
+2026,2010,Flat,102.5,1
+2027,2010,Flat,153.5,1
+2028,2010,Flat,184.5,1
+2029,2010,Flat,187.5,1
+2030,2010,Flat,196.0,1
+2031,2010,Flat,198.0,1
+2032,2010,Flat,201.0,1
+2033,2010,Flat,223.5,1
+2034,2010,Flat,227.5,1
+2035,2010,Individual time trial,8.9,1
+2036,2010,Individual time trial,52.0,1
+2037,2010,Medium mountain stage,165.5,1
+2038,2010,Medium mountain stage,179.0,1
+2039,2010,Medium mountain stage,210.5,1
+2040,2010,Mountain stage,174.0,1
+2041,2010,Mountain stage,184.5,1
+2042,2010,Mountain stage,187.5,1
+2043,2010,Mountain stage,189.0,1
+2044,2010,Mountain stage,199.5,1
+2045,2010,Mountain stage,204.5,1
+2046,2011,Flat,95.0,1
+2047,2011,Flat,158.0,1
+2048,2011,Flat,164.5,1
+2049,2011,Flat,167.5,1
+2050,2011,Flat,172.5,1
+2051,2011,Flat,191.5,1
+2052,2011,Flat,192.5,1
+2053,2011,Flat,198.0,1
+2054,2011,Flat,218.0,1
+2055,2011,Flat,226.5,1
+2056,2011,High mountain stage,109.5,1
+2057,2011,High mountain stage,152.5,1
+2058,2011,High mountain stage,168.5,1
+2059,2011,High mountain stage,179.0,1
+2060,2011,High mountain stage,200.5,1
+2061,2011,High mountain stage,211.0,1
+2062,2011,Individual time trial,42.5,1
+2063,2011,Medium mountain stage,162.5,1
+2064,2011,Medium mountain stage,189.0,1
+2065,2011,Medium mountain stage,208.0,1
+2066,2011,Team time trial,23.0,1
+2067,2012,Flat,120.0,1
+2068,2012,Flat,158.5,1
+2069,2012,Flat,196.5,1
+2070,2012,Flat,198.0,1
+2071,2012,Flat,205.0,1
+2072,2012,Flat,207.5,1
+2073,2012,Flat,214.5,1
+2074,2012,Flat,217.0,1
+2075,2012,Flat,222.5,1
+2076,2012,High mountain stage,143.5,1
+2077,2012,High mountain stage,148.0,1
+2078,2012,High mountain stage,191.0,1
+2079,2012,High mountain stage,194.5,1
+2080,2012,High mountain stage,197.0,1
+2081,2012,Individual time trial,6.4,1
+2082,2012,Individual time trial,41.5,1
+2083,2012,Individual time trial,53.5,1
+2084,2012,Medium mountain stage,157.5,1
+2085,2012,Medium mountain stage,197.0,1
+2086,2012,Medium mountain stage,199.0,1
+2087,2012,Medium mountain stage,226.0,1
+2088,2013,Flat,133.5,1
+2089,2013,Flat,173.0,1
+2090,2013,Flat,176.5,1
+2091,2013,Flat,197.0,1
+2092,2013,Flat,205.5,1
+2093,2013,Flat,213.0,1
+2094,2013,Flat,218.0,1
+2095,2013,Flat,228.5,1
+2096,2013,High mountain stage,125.0,1
+2097,2013,High mountain stage,168.0,1
+2098,2013,High mountain stage,168.5,1
+2099,2013,High mountain stage,172.5,1
+2100,2013,High mountain stage,195.0,1
+2101,2013,High mountain stage,204.5,1
+2102,2013,High mountain stage,242.5,1
+2103,2013,Individual time trial,32.0,1
+2104,2013,Individual time trial,33.0,1
+2105,2013,Medium mountain stage,145.5,1
+2106,2013,Medium mountain stage,156.0,1
+2107,2013,Medium mountain stage,191.0,1
+2108,2013,Team time trial,25.0,1
+2109,2014,Flat,137.5,1
+2110,2014,Flat,155.0,1
+2111,2014,Flat,163.5,1
+2112,2014,Flat,185.5,1
+2113,2014,Flat,190.5,1
+2114,2014,Flat,194.0,1
+2115,2014,Flat,208.5,1
+2116,2014,Flat,222.0,1
+2117,2014,Flat,234.5,1
+2118,2014,High mountain stage,124.5,1
+2119,2014,High mountain stage,145.5,1
+2120,2014,High mountain stage,161.5,1
+2121,2014,High mountain stage,177.0,1
+2122,2014,High mountain stage,197.5,1
+2123,2014,High mountain stage,237.5,1
+2124,2014,Individual time trial,54.0,1
+2125,2014,Medium mountain stage,161.0,1
+2126,2014,Medium mountain stage,170.0,1
+2127,2014,Medium mountain stage,187.5,1
+2128,2014,Medium mountain stage,201.0,1
+2129,2014,Medium mountain stage,152.5,1
+2130,2015,Flat,109.5,1
+2131,2015,Flat,166.0,1
+2132,2015,Flat,183.0,1
+2133,2015,Flat,189.5,1
+2134,2015,Flat,190.5,1
+2135,2015,Flat,191.5,1
+2136,2015,High mountain stage,110.5,1
+2137,2015,High mountain stage,138.0,1
+2138,2015,High mountain stage,161.0,1
+2139,2015,High mountain stage,186.5,1
+2140,2015,High mountain stage,188.0,1
+2141,2015,High mountain stage,195.0,1
+2142,2015,Individual time trial,13.8,1
+2143,2015,Medium mountain stage,159.5,1
+2144,2015,Medium mountain stage,167.0,1
+2145,2015,Medium mountain stage,178.5,1
+2146,2015,Medium mountain stage,181.5,1
+2147,2015,Medium mountain stage,198.5,1
+2148,2015,Medium mountain stage,201.0,1
+2149,2015,Medium mountain stage,223.5,1
+2150,2015,Team time trial,28.0,1
+2151,2016,Flat,113.0,1
+2152,2016,Flat,162.5,1
+2153,2016,Flat,183.0,1
+2154,2016,Flat,188.0,1
+2155,2016,Flat,190.5,1
+2156,2016,Flat,208.5,1
+2157,2016,Flat,209.0,1
+2158,2016,Flat,223.5,1
+2159,2016,Flat,237.5,1
+2160,2016,High mountain stage,146.0,1
+2161,2016,High mountain stage,146.5,1
+2162,2016,High mountain stage,160.0,1
+2163,2016,High mountain stage,178.0,1
+2164,2016,High mountain stage,184.0,1
+2165,2016,High mountain stage,184.5,2
+2166,2016,Individual time trial,37.5,1
+2167,2016,Medium mountain stage,162.5,1
+2168,2016,Medium mountain stage,197.0,1
+2169,2016,Medium mountain stage,216.0,1
+2170,2016,Mountain time trial,17.0,1
+2171,2017,Flat,103.0,1
+2172,2017,Flat,178.0,1
+2173,2017,Flat,203.5,2
+2174,2017,Flat,207.5,1
+2175,2017,Flat,213.5,1
+2176,2017,Flat,216.0,1
+2177,2017,Flat,222.5,1
+2178,2017,High mountain stage,101.0,1
+2179,2017,High mountain stage,179.5,1
+2180,2017,High mountain stage,181.5,1
+2181,2017,High mountain stage,183.0,1
+2182,2017,High mountain stage,214.5,1
+2183,2017,Individual time trial,14.0,1
+2184,2017,Individual time trial,22.5,1
+2185,2017,Medium mountain stage,160.5,1
+2186,2017,Medium mountain stage,165.0,1
+2187,2017,Medium mountain stage,181.5,1
+2188,2017,Medium mountain stage,187.5,1
+2189,2017,Medium mountain stage,189.5,1
+2190,2017,Medium mountain stage,212.5,1
+2191,2018,Flat,171.0,1
+2192,2018,Flat,116.0,1
+2193,2018,Flat,169.5,1
+2194,2018,Flat,181.0,1
+2195,2018,Flat,182.5,1
+2196,2018,Flat,195.0,1
+2197,2018,Flat,201.0,1
+2198,2018,Flat,231.0,1
+2199,2018,Hilly stage,156.5,1
+2200,2018,Hilly stage,181.0,1
+2201,2018,Hilly stage,181.5,1
+2202,2018,Hilly stage,188.0,1
+2203,2018,Hilly stage,204.5,1
+2204,2018,Individual time trial,31.0,1
+2205,2018,Mountain stage,65.0,1
+2206,2018,Mountain stage,108.5,1
+2207,2018,Mountain stage,158.5,1
+2208,2018,Mountain stage,175.5,1
+2209,2018,Mountain stage,200.5,1
+2210,2018,Mountain stage,218.0,1
+2211,2018,Team time trial,35.5,1
+2212,2019,Flat,128.0,1
+2213,2019,Flat,167.0,1
+2214,2019,Flat,177.0,1
+2215,2019,Flat,194.5,1
+2216,2019,Flat,213.5,1
+2217,2019,Flat,217.5,1
+2218,2019,Flat,230.0,1
+2219,2019,Hilly stage,170.5,1
+2220,2019,Hilly stage,175.5,1
+2221,2019,Hilly stage,200.0,2
+2222,2019,Hilly stage,215.0,1
+2223,2019,Individual time trial,27.2,1
+2224,2019,Mountain stage,59.5,1
+2225,2019,Mountain stage,89.0,1
+2226,2019,Mountain stage,111.0,1
+2227,2019,Mountain stage,160.5,1
+2228,2019,Mountain stage,185.0,1
+2229,2019,Mountain stage,208.0,1
+2230,2019,Mountain stage,209.5,1
+2231,2019,Team time trial,27.6,1
+2232,2020,Flat,122.0,1
+2233,2020,Flat,156.0,1
+2234,2020,Flat,166.5,1
+2235,2020,Flat,167.0,1
+2236,2020,Flat,168.0,1
+2237,2020,Flat,168.5,1
+2238,2020,Flat,183.0,1
+2239,2020,Flat,198.0,1
+2240,2020,Hilly stage,160.5,1
+2241,2020,Hilly stage,191.0,1
+2242,2020,Hilly stage,194.0,1
+2243,2020,Hilly stage,218.0,1
+2244,2020,Medium mountain stage,186.0,1
+2245,2020,Medium mountain stage,191.5,1
+2246,2020,Mountain stage,141.0,1
+2247,2020,Mountain stage,153.0,1
+2248,2020,Mountain stage,164.0,1
+2249,2020,Mountain stage,170.0,1
+2250,2020,Mountain stage,174.5,1
+2251,2020,Mountain stage,175.0,1
+2252,2020,Mountain time trial,36.2,1
+2253,2021,Flat,108.4,1
+2254,2021,Flat,150.4,1
+2255,2021,Flat,159.4,1
+2256,2021,Flat,160.6,1
+2257,2021,Flat,182.9,1
+2258,2021,Flat,190.7,1
+2259,2021,Flat,207.0,1
+2260,2021,Flat,219.9,1
+2261,2021,Hilly stage,197.8,1
+2262,2021,Individual time trial,27.2,1
+2263,2021,Individual time trial,30.8,1
+2264,2021,Medium mountain stage,169.0,1
+2265,2021,Medium mountain stage,183.5,1
+2266,2021,Medium mountain stage,183.7,1
+2267,2021,Medium mountain stage,249.1,1
+2268,2021,Mountain stage,129.7,1
+2269,2021,Mountain stage,144.9,1
+2270,2021,Mountain stage,150.8,1
+2271,2021,Mountain stage,178.4,1
+2272,2021,Mountain stage,191.3,1
+2273,2021,Mountain stage,198.9,1
+2274,2022,Flat,116.0,1
+2275,2022,Flat,182.0,1
+2276,2022,Flat,188.5,1
+2277,2022,Flat,193.0,1
+2278,2022,Flat,202.5,2
+2279,2022,Hilly stage,157.0,1
+2280,2022,Hilly stage,171.5,1
+2281,2022,Hilly stage,186.5,1
+2282,2022,Hilly stage,220.0,1
+2283,2022,Individual time trial,13.2,1
+2284,2022,Individual time trial,40.7,1
+2285,2022,Medium mountain stage,148.5,1
+2286,2022,Medium mountain stage,176.5,1
+2287,2022,Medium mountain stage,192.5,1
+2288,2022,Mountain stage,130.0,1
+2289,2022,Mountain stage,143.5,1
+2290,2022,Mountain stage,152.0,1
+2291,2022,Mountain stage,165.5,1
+2292,2022,Mountain stage,178.5,1
+2293,2022,Mountain stage,193.0,1

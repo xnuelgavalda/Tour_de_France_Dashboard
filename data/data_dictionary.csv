@@ -1,0 +1,32 @@
+Table,Field,Description
+Tours,Year,Year of the race
+Tours,Dates,Dates in which the race took place
+Tours,Stages,Number of stages in the race
+Tours,Distance,Total race distance in kilometers (and miles)
+Tours,Starters,Number of cyclists that started the race
+Tours,Finishers,Number of cyclists that finished the race
+Winners,Year,Year of the race
+Winners,Country,Winner's nationality
+Winners,Rider,Winner's name
+Winners,Team,Winner's team or sponsor (if available)
+Winners,Time,"Time to finish the race in hours, minutes, and seconds (00h 00' 00'')"
+Winners,Margin,"Margin of victory over second place in hours, minutes, and seconds (+ 00h 00' 00"")"
+Winners,Stages Won,Number of race stages won
+Winners,Stages Led,Number of stages with the overall lead
+Winners,Avg Speed,Average speed in kilometers per hour (race distance / time)
+Winners,Height,Winner's height in meters
+Winners,Weight,Winner's weight in kilograms
+Winners,Born,Data of birth
+Winners,Died,Date of death (if applicable)
+Stages,Year,Year of the race
+Stages,Date,Date in which the stage took place
+Stages,Stage,Stage number
+Stages,Course,Origin and destination cities (Origin to Destination)
+Stages,Distance,Distance in kilometers (and miles)
+Stages,Type,Type of stage
+Stages,Winner,Stage winner
+Finishers,Year,Year of the race
+Finishers,Rank,"General classification ranking (1 is the winner of the race, and so forth)"
+Finishers,Rider,Rider's name
+Finishers,Time,"Time to finish the race in hours, minutes, and seconds (00h 00' 00'') for the fastest finisher in each race, and the margin of defeat for the rest (+ 00h 00' 00"")"
+Finishers,Team,Rider's team or sponsor (if available)
